@@ -179,117 +179,117 @@ duro = hard
 graciosa = funny  
 oración = sentence  
 
-### 09
-hay -> va a haber = there is going to be
-+ fue:  ir 过去式/was
-  fueron: ir过去式/were
-
-+ nevar = snow, *v.*
-  nieve = snow, *n.*
-
-+ llover = rain, *v.*
-  lluvia = rain, *n.*
-
-calurosa = hot
-comenzar/comienzas = start
-el clima = weather
-árboles = trees
-dormir -> duerme
-se encuentra/nos encontramos = meet up
-cabello = hair
-cepillarme = brush
+### 09  
+hay -> va a haber = there is going to be  
++ fue:  ir 过去式/was  
+  fueron: ir过去式/were  
   
-+ el/la/los/las用于身体部位前
-  los dientes = their tooth
-
-| 名词前 | 名词后/无名词 |
-| -- | -- |
-| mi | mio/a |
-| tu | tuyo/a |
-| su | suyo/a |
-| nosotro/a  | nuestro/a |
-
-### 10
-Nos vemos = See you!
-No es bueno fumar = It's not good to smoke.
-
-+ algún = some/any
-  algo = sth./anything
-  alguien = sb./anyone
-  alguna tienda, 名词前有后缀a/o
-
-nacionalidad = nationality
-por aquí = around here
-querriá = would like
-el siguiente tren = the next train
-habitación = room
-entonces = then
-posible = possible
-correo electrónico = email
-ruido = noise
-
-
-venir + a + place
-| 过去式 | venir = come | ver = see |
-| -- | -- | -- |
-| yo | vine | vi |
-| tú | viniste | viste |
-| él | vino | vio |
-| nosotros  | vinimos | vimos |
-| ellos | vinieron | vieron |
-
-### 11
-+ -zar, 过去式 (yo) z->c
-  empezar -> yo empecé
-  almorzar -> yo almorcé
-
-+ encontrar = to find
-  me encontrar = to meet
-
-nos sentamos = sit
-atrás = back
-más alto = louder
-preocuparme = worry
-diccionario = dictionary
-media hora = half an hour
-ejemplo = example
-parar de hablar = stop talking
-responder = answer
-comprende = understand
-dibujar = draw
-contar = sing
-estar lista para = be ready for
-
-+ （让某人做某事）祈使句的动词去掉-s(tú)
-  正式形式（usted）动词结尾交换元音 -a<->-e
-
-### 12
-+ -car -> 过去式 (yo) -qué
-  practicar -> practiqué
-  tocar -> toqué
-
-recordamos, recuerdas = remember
-pensó en sb. = think about
-el cambió = change
-
-| x | xx | x0 | xxx |
-| -- | -- | -- | -- |
-| cero | diez | | cien |
-| uno | once | | ciento diez |
-| dos | doce | veinte | doscientos |
-| tres | trece | treinta |
-| cuatro | catorce | cuarenta |
-| cinco | quince | cincuenta |
-| seis | dieciseis | sesenta |
-| siete | diecisiete | setenta |
-| ocho | dieciocho | ochenta |
-| nueve | diecinueve | noventa |
-
-+ 好像只有几十几的时候用y，其余时候不用
-+ 数字30~99 = 几十 + y + 几 
-+ 数字x01~ = cineto + 几
-+ 数字300~999 = 几百 + 几十 + y + 几, ochocientos cincuenta
-  \> 1000 则在前面加 mil, 1840 = el año mil ochocientos cuarenta
++ nevar = snow, *v.*  
+  nieve = snow, *n.*  
+  
++ llover = rain, *v.*  
+  lluvia = rain, *n.*  
+  
+calurosa = hot  
+comenzar/comienzas = start  
+el clima = weather  
+árboles = trees  
+dormir -> duerme  
+se encuentra/nos encontramos = meet up  
+cabello = hair  
+cepillarme = brush  
+    
++ el/la/los/las用于身体部位前  
+  los dientes = their tooth  
+  
+| 名词前 | 名词后/无名词 |  
+| -- | -- |  
+| mi | mio/a |  
+| tu | tuyo/a |  
+| su | suyo/a |  
+| nosotro/a  | nuestro/a |  
+  
+### 10  
+Nos vemos = See you!  
+No es bueno fumar = It's not good to smoke.  
+  
++ algún = some/any  
+  algo = sth./anything  
+  alguien = sb./anyone  
+  alguna tienda, 名词前有后缀a/o  
+  
+nacionalidad = nationality  
+por aquí = around here  
+querriá = would like  
+el siguiente tren = the next train  
+habitación = room  
+entonces = then  
+posible = possible  
+correo electrónico = email  
+ruido = noise  
+  
+  
+venir + a + place  
+| 过去式 | venir = come | ver = see |  
+| -- | -- | -- |  
+| yo | vine | vi |  
+| tú | viniste | viste |  
+| él | vino | vio |  
+| nosotros  | vinimos | vimos |  
+| ellos | vinieron | vieron |  
+  
+### 11  
++ -zar, 过去式 (yo) z->c  
+  empezar -> yo empecé  
+  almorzar -> yo almorcé  
+  
++ encontrar = to find  
+  me encontrar = to meet  
+  
+nos sentamos = sit  
+atrás = back  
+más alto = louder  
+preocuparme = worry  
+diccionario = dictionary  
+media hora = half an hour  
+ejemplo = example  
+parar de hablar = stop talking  
+responder = answer  
+comprende = understand  
+dibujar = draw  
+contar = sing  
+estar lista para = be ready for  
+  
++ （让某人做某事）祈使句的动词去掉-s(tú)  
+  正式形式（usted）动词结尾交换元音 -a<->-e  
+  
+### 12  
++ -car -> 过去式 (yo) -qué  
+  practicar -> practiqué  
+  tocar -> toqué  
+  
+recordamos, recuerdas = remember  
+pensó en sb. = think about  
+el cambió = change  
+  
+| x | xx | x0 | xxx |  
+| -- | -- | -- | -- |  
+| cero | diez | | cien |  
+| uno | once | | ciento diez |  
+| dos | doce | veinte | doscientos |  
+| tres | trece | treinta |  
+| cuatro | catorce | cuarenta |  
+| cinco | quince | cincuenta |  
+| seis | dieciseis | sesenta |  
+| siete | diecisiete | setenta |  
+| ocho | dieciocho | ochenta |  
+| nueve | diecinueve | noventa |  
+  
++ 好像只有几十几的时候用y，其余时候不用  
++ 数字30~99 = 几十 + y + 几   
++ 数字x01~ = cineto + 几  
++ 数字300~999 = 几百 + 几十 + y + 几, ochocientos cincuenta  
+  \> 1000 则在前面加 mil, 1840 = el año mil ochocientos cuarenta  
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
