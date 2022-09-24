@@ -158,13 +158,13 @@ gran + sth. = great ...
   el mió/la tuya  
 
 -gir/-ger (elegir/coger) => yo elejo/cojo  
-| 现在时 | elegir(e->i) | ir | ser |
-| -- | -- | -- | -- |
-| yo | elijo | voy | soy |
-| tú | eliges | vas | eres |
-| él | elige | va | es |
-| nosotros  | elegimos | vamos | somos |
-| ellos | eligen | van | son |
+| 现在时 | elegir(e->i) | ir | ser | oír = hear | poner = put | saber = know | poder = can, almorzar | perder = lost, cerrar = close |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| yo | elijo | voy | soy | oigo | pongo | sé | puedo | pierdo |
+| tú | eliges | vas | eres | oyes | pones | sabes | puedes | pierdos |
+| él | elige | va | es | oye | pone | sabe | puede | piede |
+| nosotros  | elegimos | vamos | somos | oímos | ponemos | sabemos | podemos | perdemos |
+| ellos | eligen | van | son | oyen | ponen | saben | pueden | pierden |
 
 vieja = old  
 creo que sí = I think so  
@@ -184,10 +184,10 @@ hay -> va a haber = there is going to be
 + fue:  ir 过去式/was  
   fueron: ir过去式/were  
   
-+ nevar = snow, *v.*  
++ nevar, (él) nieva = snow, *v.*  
   nieve = snow, *n.*  
   
-+ llover = rain, *v.*  
++ llover, (él) llueve = rain, *v.*  
   lluvia = rain, *n.*  
   
 calurosa = hot  
@@ -290,6 +290,106 @@ el cambió = change
 + 数字x01~ = cineto + 几  
 + 数字300~999 = 几百 + 几十 + y + 几, ochocientos cincuenta  
   \> 1000 则在前面加 mil, 1840 = el año mil ochocientos cuarenta  
+
+### 13  
++ me gusta  
+  me gustó  
+  
+sentarse, sentirme = feel  
+despertarme, me despierto = wake up  
+estar encima de = on top of  
+al lado de = beside/next  
+cuáles = which  
+palabras = words  
+boca = mouth  
+cabezas = heads  
+nariz, narices = noses  
+brazos = arms  
+piernas = legs  
+barbar = beard  
+quedar = stay/get together  
+cada ... = every ...  
+acordarte/acuerdo = remember  
+acarbar = finish  
+gorda = fat  
+soñar = dream  
+lleva puesto = wearning  
+  
+### 14  
+llevar =carry  
+mantequilla = butter  
+la compra = groceries  
+vegetales = vegetables  
+llegar a casa = arrive home  
+pagar sth. = pay for sth.  
+sitios = places  
+ir + a + v.  
++ for: para用于目的, por用于金额交易  
+  
++ me gusta + 单数  
+  me gustan + 复数  
+  
++ mucho 放动词后, les gusta mucho jugar  
+  
++ cuarto = 15 min  
+  a las seis y cuarto  
+  las cinco menos cuarto  
+  
+### 15  
++ conocer = know a person/place  
+  saber = know info/how to do  
+  
++ Cómo se dice ... = How do you say ...  
+  Cómo se describe ... = How do you wite ...  
+  
++ Qué tiempo hace = Whats the weather  
+  hace buen/mal tiempo  
+  hace frío/calor/sol/viento = cold/hot/sunny/windy  
+  
++ enero, febrero, marzo, abril,   
+  mayo, junio, julio, agosto,  
+  septiembre, octubre, noviembre, diciembre  
+  
++ más + a. + que ...   
+  menos + a. + que ...   
+  tan + a. + como ...   
+  
++ mejor que = better than  
+  peor que = worse than  
+  
++ el más + a. = the most  
+  el mejor/peor = ...  
+  
+bella = pretty  
+famoso = famous  
+mundo = world  
+  
+### 16  
+me equivoqué = I made a mistake.  
+Felicitaciones = congratulations!  
+No entiendo = I don't understand.  
+contenta = happy  
+suficiente = enough  
+nota = grade  
+a lo mejor = maybe  
+mejorar = improve  
+intento = try  
+noticias = news  
+excelente = excellent  
+cita = date  
+horrible  
+durante = during  
+vino tinto = red wine  
+lámpara = lamp  
++ (原型) 过去式  
+(tocar) toca a la puerta = knock the door  
+(derramar) derramé = leaked  
+(sentir) me sentí = I felted  
+(romper) rompí = broke  
+(regresar) regresé = come back  
+(dejar) dejé = leave  
+
+
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
