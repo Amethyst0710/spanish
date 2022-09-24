@@ -381,13 +381,13 @@ horrible
 durante = during  
 vino tinto = red wine  
 lámpara = lamp  
-+ (原型) 过去式  
 (tocar) toca a la puerta = knock the door  
++ (原型) 过去式  
 (derramar) derramé = leaked  
 (sentir) me sentí = I felted  
 (romper) rompí = broke  
-(regresar) regresé = come back  
-(dejar) dejé = leave  
+(regresar) regresé = comed back  
+(dejar) dejé = left  
 
 
 
