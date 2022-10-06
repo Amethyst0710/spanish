@@ -389,7 +389,70 @@ lámpara = lamp
 (regresar) regresé = comed back  
 (dejar) dejé = left  
 
+### 17  
+cuarto = 1/4, room  
+emoción = exciting  
+estupendo = amazing  
+para = stop  
+keipop = k-pop  
+quizas = maybe  
+sonar = ring  
+claro que no! = of course no  
+contestar = answer  
+todaviá = still  
+verdadero = real  
+  
+### 18  
+reunión = meeting  
+desde = from  
+mientras = while  
+techo = ceiling  
+noticia = news  
+terminar = finished  
+amanecer = sunrise  
+detrás de = behind  
+no me importa ... = I don't care  
+surfista = surfer  
+  
+### 19  
+le muestra = show her  
+gracioso = funny  
+una nariz enorme = a huge nose  
+no te creo = I don't believe.  
+pizarra = blackboard  
+hacia = towards  
+suficientemente = enough  
+reírse = laugh  
+morada = purple  
+piscante = spicy  
++ me gustó  
+  me gustaron  
+  me encantó  
+  me encantaron  
+  
++ really + a. = -ísimo  
+  facilísimo, grandísimo 去元音  
+  
+acostarse = sleep  
+gimnasio = gym  
+allí está ... = There's  
+odiar = hate  
+  
+### 20  
+ajedrez = chess, jugar al ajedrez  
++ preferir -> prefiere  
+    
++ te acuestas  
+  nos acostamos  
+  acostarme  
+  
++ frecuentemente  
+  generalmente  
+  de vez en cuando = sometimes  
+    
++ comer carne, 没有el  
 
+(0830)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
