@@ -31,13 +31,13 @@ piso = floor
 aula = classroom  
 
 ### 03
-| 现在时 | -ar | -er | -ir | 
-| -- | -- | -- | -- |
-| yo | -o | -o | -o |
-| tú | -as | -es | -es |
-| él | -a | -e | -e |
-| ellos | -an | -en | -en |
-| nosotros  | -amos | -emos | -imos |
+| 现在时 | -ar | -er | -ir | ir | ser | 
+| -- | -- | -- | -- | -- | -- |  
+| yo | -o | -o | -o | voy | soy |  
+| tú | -as | -es | -es | vas | eres |  
+| él | -a | -e | -e | va | es |  
+| nosotros  | -amos | -emos | -imos | vamos | somos |  
+| ellos | -an | -en | -en | van | son |  
 
 querido/querida = dear  
 invierno = winter  
@@ -158,13 +158,13 @@ gran + sth. = great ...
   el mió/la tuya  
 
 -gir/-ger (elegir/coger) => yo elejo/cojo  
-| 现在时 | elegir(e->i) | ir | ser | oír = hear | poner = put | saber = know | poder = can, almorzar | perder = lost, cerrar = close |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| yo | elijo | voy | soy | oigo | pongo | sé | puedo | pierdo |
-| tú | eliges | vas | eres | oyes | pones | sabes | puedes | pierdos |
-| él | elige | va | es | oye | pone | sabe | puede | piede |
-| nosotros  | elegimos | vamos | somos | oímos | ponemos | sabemos | podemos | perdemos |
-| ellos | eligen | van | son | oyen | ponen | saben | pueden | pierden |
+| 现在时 | elegir(e->i) / servir / pedir | oír = hear | poner = put | saber = know | poder = can, almorzar | perder = lost, cerrar = close |
+| -- | -- | -- | -- | -- | -- | -- |
+| yo | elijo | oigo | pongo | sé | puedo | pierdo |
+| tú | eliges | oyes | pones | sabes | puedes | pierdos |
+| él | elige | oye | pone | sabe | puede | piede |
+| nosotros  | elegimos | oímos | ponemos | sabemos | podemos | perdemos |
+| ellos | eligen | oyen | ponen | saben | pueden | pierden |
 
 vieja = old  
 creo que sí = I think so  
@@ -320,7 +320,9 @@ llevar =carry
 mantequilla = butter  
 la compra = groceries  
 vegetales = vegetables  
-llegar a casa = arrive home  
++ llegar **a** casa = arrive home  
+  ve **a** casa = go home
+
 pagar sth. = pay for sth.  
 sitios = places  
 ir + a + v.  
@@ -403,7 +405,7 @@ todaviá = still
 verdadero = real  
   
 ### 18  
-reunión = meeting  
+la reunión = meeting  
 desde = from  
 mientras = while  
 techo = ceiling  
@@ -451,8 +453,86 @@ ajedrez = chess, jugar al ajedrez
   de vez en cuando = sometimes  
     
 + comer carne, 没有el  
+  
+### 21  
++ 非正式的祈使句去掉tú form的-s，但以下为特殊形式  
+  | 原型 | 非正式 | 正式 |  
+  | -- | -- | -- |  
+  | hacer | haz | haga |    
+  | poner | pon | ponga |  
+  | ir | ve | veya |  
+  
+jamás = never  
+tampoco = neither  
+colega = colleague  
+disponible = available  
+estantería = bookcase  
+papele = paper  
+empresa = company  
+joven = *a.* young / *n.* young man  
+  
+### 22  
+过去未完成时(imperfect时态)  
++ always did / used to do  
+  
+```注意yo和él一样```  
+| 过去未完成时 | jug*ar* / estar | com*er* / tener | viv*ir* | ser |  
+| -- | -- | -- | -- | -- |  
+| yo | jug*aba* | com*ía* | viv*ía* | era | ten  
+| tú | jug*abas* | com*ías* | viv*ías* | eras |  
+| él | jug*aba* | com*ía* | viv*ía* | era |  
+| nosotros  | jug*ábamos* | com*íamos* | viv*íamos* | éramos |  
+| ellos | juga*ban* | com*ían* | viv*ían* | eran |  
+  
+bosque = wood/forest  
+galletas = cookies  
+antes = previously  
+idioma = language  
+amable = *a.* kind  
+tranquila = calm/quiet  
+alumno = student  
+patineta = skateboard  
+  
+### 23  
++ -car, -gar, -zar 过去式的yo形式 llego(现) -> llegué(过)  
+  
+¡Buen provecho! 一般在吃饭前说  
+asado = grilled  
+lleno = full  
+una excursión = hike  
+aceite = oil  
+saludable = healthy  
+estupenda = wonderful  
+hielo = ice  
+  
+### 24  
+teatros = theaters  
+tomar un descanso = take a break  
+espectáculo = *n.* show  
+lago = lake  
+el ciclismo = cycling  
+desafortunadamente = unfortunately  
+hacer excursiones = go hiking  
+juguete = toy  
+iglesia = church  
+tradiciones = traditions  
+panadería = bakery  
+matrimonio = marriage  
+receta = recipe  
+horno = oven  
+mostrar -> mostrando = *v.* show  
+cierto = true  
+verdad = truth  
+equipo = team  
+  
+Noche buena = Christmas Eve  
+el Día de Acción de Gracias = Thanksgiving  
+  
+Qué tal si ...? = How about ...?  
+Estoy de acuerdo. = I agree.  
 
-(0830)
+
+(0905)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
