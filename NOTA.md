@@ -109,7 +109,7 @@ acá/allá = here/there
 aprender/ayudar/empezar + **a** + v.  
 entrada = ticket  
 quedar = stay  
-llenas de ... = full of ...  
+llena de ... = full of ...  
 + next:  
   n. + que viene  
   próximo + n.  
@@ -372,7 +372,7 @@ Felicitaciones = congratulations!
 No entiendo = I don't understand.  
 contenta = happy  
 suficiente = enough  
-nota = grade  
+nota = grade/note  
 a lo mejor = maybe  
 mejorar = improve  
 intento = try  
@@ -531,8 +531,109 @@ el Día de Acción de Gracias = Thanksgiving
 Qué tal si ...? = How about ...?  
 Estoy de acuerdo. = I agree.  
 
+### 25  
+nochevieja = New Year Eve  
+Suiza = Switzerland  
+tarjeta = card  
+Navidad = Christmas  
+mi noche del año favorita = my favorite night of the year   
++ Cómo te va = How's it going  
+  Cómo le va (正式)  
+  
+Oye / Mira 用于吸引别人注意 ~ Hey!  
+para 可用于表示deadline  
+Qué te parece = What do you think  
+genial = cool  
+patio = backyard  
+acompañar = go with  
+sorpresa = surprise  
+centro = downtown  
+conversar = talk  
+pena = shame  
+ven = come, venir tú 命令式  
+parece + a. = it seems + a.  
+parrilla = grill  
+  
+### 26  
+preterite过去式  
+| 过去式 | traer=bring | decir | tener |  
+| -- | -- | -- | -- |  
+| yo | traje | dije | tuve |  
+| tú | trajiste | dijiste | tuviste |  
+| él | trajo | dijo | tuvo |  
+| nosotros  | trajimos | dijimos | tuvimos |  
+| ellos | trajeron | dijeron | tuvieron |  
+  
++ compañeros de cuarto = roommate  
+  compañeros de clase = classmate  
+  
+prima = cousin  
++ hace 2 año = 2 years ago  
+  2 años = last for 2 year  
+  
+campamento = camp  
+premio = prize  
+cuento = story  
+abuelito = abuelo  
+aventura = adventure  
+álbum, álbumes = album  
+la foto  
+esto/eso = this/that  
+traje = suit  
+    
+### 27  
++ 动 -> 形  
+  pintar -> pintado  
+  perder -> perdido, lost  
+  dormir -> dormido  
+  apagar -> apagado, off  
+  
+deberías, debería =  you should, 正式  
+la luz = the light  
+mueble = furniture  
+cafetera = coffee maker  
+portátil = laptop  
+la pared, paredes = the wall  
+el televisor = television  
+la alfombra = carpet  
+la cómoda = 梳妆台  
+estufa = stove 火炉  
+el espejo = mirror  
+sillones = armchairs  
+lavadora = 洗衣机  
+encender = turn on  
+el sofá   
+la ropa = the clothes  
+  
+### 28  
+不定式作主语（类todo, doing）时直接使用动词原型  
++ doler = hurt  
+  me duele  
+  me duelen  
+  te duelen  
+  
+hay que ... = one must ...  
+espalda = back  
+estómago = stomach  
+dedos = fingers  
+cuello = neck  
+el jabón = soap  
+descansar = rest  
+pálido = pale  
+dolor de cabeza = headache  
+enfermero = nurse  
+cuidar = take care of  
+salud = health  
+ejercicio = exercise  
+dentista = dentist  
+actividades  
+accidente  
+cigarrillo = 烟  
+se cepillaron los dientes = 刷牙  
 
-(0905)
+
+
+(0910)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
