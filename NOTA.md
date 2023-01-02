@@ -171,7 +171,7 @@ creo que sí = I think so
 yo pienso que no = I don't think so  
 vida = life  
 aquí/ahí = here/there  
-anuncio = ad  
+anuncio = ad, announcement  
 gorras = caps  
 como = like 像  
 emocionante = excited  
@@ -182,7 +182,7 @@ oración = sentence
 ### 09  
 hay -> va a haber = there is going to be  
 + fue:  ir 过去式/was  
-  fueron: ir过去式/were  
+  fueron: ir 过去式/were  
   
 + nevar, (él) nieva = snow, *v.*  
   nieve = snow, *n.*  
@@ -230,13 +230,13 @@ ruido = noise
   
   
 venir + a + place  
-| 过去式 | venir = come | ver = see |  
-| -- | -- | -- |  
-| yo | vine | vi |  
-| tú | viniste | viste |  
-| él | vino | vio |  
-| nosotros  | vinimos | vimos |  
-| ellos | vinieron | vieron |  
+| 过去式 | venir = come | ver = see | leer = read |  
+| -- | -- | -- | -- |  
+| yo | vine | vi | leí |  
+| tú | viniste | viste | leíste |  
+| él | vino | vio | leyó |  
+| nosotros  | vinimos | vimos | leímos |  
+| ellos | vinieron | vieron | leyeron |  
   
 ### 11  
 + -zar, 过去式 (yo) z->c  
@@ -394,7 +394,7 @@ lámpara = lamp
 ### 17  
 cuarto = 1/4, room  
 emoción = exciting  
-estupendo = amazing  
+estupendo = amazing, wonderful  
 para = stop  
 keipop = k-pop  
 quizas = maybe  
@@ -474,15 +474,16 @@ joven = *a.* young / *n.* young man
 ### 22  
 过去未完成时(imperfect时态)  
 + always did / used to do  
++ was doing  
   
 ```注意yo和él一样```  
-| 过去未完成时 | jug*ar* / estar | com*er* / tener | viv*ir* | ser |  
-| -- | -- | -- | -- | -- |  
-| yo | jug*aba* | com*ía* | viv*ía* | era | ten  
-| tú | jug*abas* | com*ías* | viv*ías* | eras |  
-| él | jug*aba* | com*ía* | viv*ía* | era |  
-| nosotros  | jug*ábamos* | com*íamos* | viv*íamos* | éramos |  
-| ellos | juga*ban* | com*ían* | viv*ían* | eran |  
+| 过去未完成时 | jug*ar* / estar | com*er* / tener | viv*ir* | ser | ir | ver | estar |  
+| -- | -- | -- | -- | -- | -- | -- | -- |  
+| yo | jug*aba* | com*ía* | viv*ía* | era | iba | veía | estaba |    
+| tú | jug*abas* | com*ías* | viv*ías* | eras | ibas | veías | estabas |  
+| él | jug*aba* | com*ía* | viv*ía* | era | iba | veía | estaba |  
+| nosotros  | jug*ábamos* | com*íamos* | viv*íamos* | éramos | íbamos | veíamos | estabamos |  
+| ellos | juga*ban* | com*ían* | viv*ían* | eran | iban | veíasn | estaban |  
   
 bosque = wood/forest  
 galletas = cookies  
@@ -522,7 +523,7 @@ receta = recipe
 horno = oven  
 mostrar -> mostrando = *v.* show  
 cierto = true  
-verdad = truth  
+verdad = truth, true  
 equipo = team  
   
 Noche buena = Christmas Eve  
@@ -630,10 +631,90 @@ actividades
 accidente  
 cigarrillo = 烟  
 se cepillaron los dientes = 刷牙  
+  
+### 29  
++ that 从句  
+  decir que ...  
+  saber que ...  
+  
+cambiar = change  
+canal = channel  
+semanal = weekly  
+periódico = newspaper  
+archivo = file  
+correcto = right  
+la revista = magazine  
+enviar = send  
+fábrica = factory  
+máquina = machine  
+ingeniero = engineer  
+  
+### 30  
++ rápido = fast  
+  lentamente = slowly  
+  
+peligroso = dangerous  
+conejo = rabbit  
+cantar = sing  
+fuerte = strong  
+verdura = vegetable  
+útil, útiles = useful  
+días de trabajo = workdays  
+edad, edades = age  
+gramática = gramma  
+pesado = heavy  
+oso = bear  
+insecto = insect  
+agricultor = farmer  
+dinosaurio = dinosaur  
+  
+### 31  
++ 学科  
+  historia = history  
+  química = chemistry  
+  geografía = geography  
+  
+aprobar = agree, pass  
+tazón = bowl, large cup  
+copa 高脚杯  
+varios = several  
+Te sientes mal del estómago  
+cuaderno = notebook  
+prueba = test 试验，考试  
+balonmano = handball  
+corredor, corredores = runner  
+carrera = race 比赛  
+  
+### 32  
+Había una vez = once upon a time, there was ...  
++ reina = queen  
+  rey = king  
+  príncipe = prince  
+  princesa = princess  
+  
+dulce = sweet, candy  
+refresco = soda 冷饮  
+los dibujos animados = cartoon  
+patios de juego = playground  
+por = for, through, by  
+castillo = castle  
+oscuro = dark  
+salón = hall  
+montaña = mountain  
+violín = violin  
+oveja = sheep  
+mar = sea  
+intentar = try  
+rezar = pray  
+sortija = ring  
+campo = countryside  
+llorar = cry  
+bailarina, bailarín = dancer  
+guerra = war  
+hasta = until  
 
 
-
-(0910)
+(0916)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
