@@ -44,7 +44,7 @@ invierno = winter
 ya = already/yet  
 depués de ... = after ...  
 anoche = last night  
-barcos = ships, boats  
+barco = ship, boat  
 hace mucho tiempo = long times ago  
 
 ### 04
@@ -109,7 +109,10 @@ acá/allá = here/there
 aprender/ayudar/empezar + **a** + v.  
 entrada = ticket  
 quedar = stay  
-llena de ... = full of ...  
++ llena = full  
+  vacía = empty  
+  llena de ... = full of ...  
+  
 + next:  
   n. + que viene  
   próximo + n.  
@@ -118,7 +121,13 @@ llena de ... = full of ...
   habl*ar* => habl*ando*  
   com*er* => com*iendo*  
   abr*ir* => abr*iendo*  
-  leer => le*yendo* (元音+-iendo)  
+
++ -iendo 特殊形式：  
+  leer, traer, oír => leyendo, trayendo, oyendo (元音+-iendo)  
+  ir => yendo  
+  decir, pedir => diciendo, pidiendo  
+  dormir, morir => durmiendo, moriendo  
+  ir => yendo   
   
 Nosotros amamos a Duo!  
 
@@ -222,7 +231,7 @@ nacionalidad = nationality
 por aquí = around here  
 querriá = would like  
 el siguiente tren = the next train  
-habitación = room  
+habitación, habitaciónes = room  
 entonces = then  
 posible = possible  
 correo electrónico = email  
@@ -316,7 +325,7 @@ soñar = dream
 lleva puesto = wearning  
   
 ### 14  
-llevar =carry  
+llevar = carry  
 mantequilla = butter  
 la compra = groceries  
 vegetales = vegetables  
@@ -326,7 +335,9 @@ vegetales = vegetables
 pagar sth. = pay for sth.  
 sitios = places  
 ir + a + v.  
-+ for: para用于目的, por用于金额交易  
++ for:  
+  para用于目的，目的地，表示deadline    
+  por用于金额交易，交通方式    
   
 + me gusta + 单数  
   me gustan + 复数  
@@ -542,7 +553,6 @@ mi noche del año favorita = my favorite night of the year
   Cómo le va (正式)  
   
 Oye / Mira 用于吸引别人注意 ~ Hey!  
-para 可用于表示deadline  
 Qué te parece = What do you think  
 genial = cool  
 patio = backyard  
@@ -556,7 +566,7 @@ parece + a. = it seems + a.
 parrilla = grill  
   
 ### 26  
-preterite过去式  
+preterite 一般过去时  
 | 过去式 | traer=bring | decir | tener |  
 | -- | -- | -- | -- |  
 | yo | traje | dije | tuve |  
@@ -673,6 +683,7 @@ dinosaurio = dinosaur
   historia = history  
   química = chemistry  
   geografía = geography  
+  ciencia = science  
   
 aprobar = agree, pass  
 tazón = bowl, large cup  
@@ -712,9 +723,97 @@ llorar = cry
 bailarina, bailarín = dancer  
 guerra = war  
 hasta = until  
+  
+### 33  
+isla = island  
+Bienvenidos a ... = Welcome to ...  
+la catedral = cathedral  
+el/la turista = tourist  
+planear = plan, v.  
+reservar = reserve, book  
+equipaje = luggage  
+pasajero = passenger  
+identificación = identification  
+estadio = stadium  
+coche = car, 载人的车  
+tranvía = tram  
+asiento = seat  
+regresar = return  
+vuelo = flight  
+confortable = comfortable  
+agradable = nice, pleasant, agreeable  
+servicio = service, restroom  
+en todas partes = everywhere  
+  
+### 34  
++ angry  
+  enojado 多用于拉丁美洲  
+  enfadado 多用于西班牙  
+  
+loco = crazy  
+nieto = grandson  
+sin duda = estar seguro de algo = without a doubt  
+invitado = guest  
+satisfecho = satisfied  
+probablemente = probably  
+excepto = except  
+vecino = neighbor  
+el traje de baño = bathing suit  
+el paraguas = umbrella, 单复同形  
+soleado = sunny  
+mojado = wet  
+seco = dry, a.  
+pelota = ball  
+una gafas de sol = 太阳镜  
+mango = 芒果  
+fresco = fresh  
+roto = broken  
+cajón, cajones = drawer  
+motor = engine  
+  
+### 35  
++ imperfect 过去未完成时  
+  preterite 一般过去时  
+  两者一起使用时，当一个动作被打断时  
+  Yo disfrutaba un café cuando tú me llamaste.  
+  Yo iba al mercado cuando vi a José.  
+  
+mercado = market  
+océano = ocean  
+pescar = fish, v.  
+tambor = drum  
+manejar = drive, handle  
+reparar = repair  
+limonada = lemonada  
+rata = rat  
+tío, tía = uncle, aunt  
+mono = monkey  
+asar = roast, grill, v.  
+  
+### 36  
+pedir = ask for, order, v.  
+morir = die, v.  
+muriendo = dying  
+horario = schedule  
+carpeta = folder  
+trabajador, trabajadores = worker   
+pintor = painter  
+compañía = empresa  
+empresario = businessman  
+repetir = repeat  
+presidente = president  
+completar = complete  
+cocinero = chef  
+edificio = building  
+llamada = call, n.  
+director, directores  
++ adentro de = inside of ...  
+  dentro = inside  
+  afuera = outside  
+  adentro 一般用于有动作  
 
 
-(0916)
+(0920)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
