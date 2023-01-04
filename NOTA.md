@@ -10,6 +10,7 @@ ayer = yesterday
 hermoso = beautiful  
 caliente = hot  
 ### 02
+preterite 一般过去时
 | 过去式 | viaj*ar* | com*er*   | viv*ir*     | estar         | ir/ser |
 | --    | --        | --        | --        | --            | -- |
 | yo    | viaj*é*   | com*í*    | viv*í*      | estuve      | fui |
@@ -85,7 +86,7 @@ mando(mandar) = send
 
 gerente = manager  
 helado = ice icream  
-razón = reason  
+la razón = reason  
 por supuesto = of course  
 empleo = job  
 ganar = earn  
@@ -484,9 +485,11 @@ joven = *a.* young / *n.* young man
   
 ### 22  
 过去未完成时(imperfect时态)  
-+ always did / used to do  
-+ was doing  
-  
++ always did / used to do， 过去经常发生  
++ was doing， 过去正在发生的  
++ 描述过去
++ 指从未发生改变的事，如名字
+
 ```注意yo和él一样```  
 | 过去未完成时 | jug*ar* / estar | com*er* / tener | viv*ir* | ser | ir | ver | estar |  
 | -- | -- | -- | -- | -- | -- | -- | -- |  
@@ -811,9 +814,89 @@ director, directores
   dentro = inside  
   afuera = outside  
   adentro 一般用于有动作  
+  
+### 37  
+la serpiente = snake  
+naturaleza = nature  
+creer = believe  
+león = lion  
+corazón = heart  
+desierto = desert  
+oro = gold  
+la miel = honey  
+collar = necklace  
+propio = own  
+vista = view  
+pato = duck  
+puente = bridge  
+silvestre = wild  
+magia = magic  
+  
+### 38  
+preterite 一般过去时  
+| 过去式 | saber | poder = can | poner = put | dormir |  
+| -- | -- | -- | -- | -- |  
+| yo | supe | pude | pose | dormí |  
+| tú | supiste | pudiste | pusiste | dormiste |  
+| él | supo | pudo | puso | durmió |  
+| nosotros  | supimos | pudimos | pusimos | dormimos |  
+| ellos | supieron | pudieron | pusieron | durmieron |  
+  
+más = more, anymore  
+vez, veces = time  
+ocurrir = happen  
+siglo = century  
+conocido = famous, familiar  
+charla = chat  
+por fin = finally  
+preparar = prepare  
+nacimiento = birth  
+colina = hill  
+principio = beginning  
+```Feminine nouns that begin with a stressed   "a-" or "ha-" sound in Spanish use the articles   "el" and "un" in the singular.```  
+el área  
+  
+### 39  
+pasta    
+tostada = toast  
+mermelada = jam  
+calcetín, calcetines = sock  
+suave = soft  
+vestirse = get dressed  
+perfecto  
+corbata = tie  
+peine = comb  
+bufanda = scarf  
+suéter = sweater  
+uniforme = uniform  
+diario = daily  
+usar maquillaje = wear make-up  
+champú = shampooñ  
+  
+### 40  
++ 当动+宾：lo/la/los/las + v.  
+  e.g. Ya lo tengo.  
++ 当有两个动词，宾放于动词前或加在不定式词后  
+  e.g. las voy a comprar = voy a comprarlas  
+  
+jamón = ham  
+cebolla = onion  
+litro = liter, 公升  
+lata = can  
+en oferta = on sale  
+yogur = yogurt  
+pimienta = pepper  
+gastar = spend  
+champiñon = mushroom  
+campeón = champion  
+lista = list, ready  
+variedad = variety  
+billetera = wallet  
+limón = lemon  
+pera = pear  
 
 
-(0920)
+(0925)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
