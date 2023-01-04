@@ -182,7 +182,7 @@ yo pienso que no = I don't think so
 vida = life  
 aquí/ahí = here/there  
 anuncio = ad, announcement  
-gorras = caps  
+gorra = cap  
 como = like 像  
 emocionante = excited  
 duro = hard  
@@ -404,7 +404,7 @@ lámpara = lamp
 (dejar) dejé = left  
 
 ### 17  
-cuarto = 1/4, room  
+cuarto = 1/4, 4th, room  
 emoción = exciting  
 estupendo = amazing, wonderful  
 para = stop  
@@ -517,7 +517,6 @@ lleno = full
 una excursión = hike  
 aceite = oil  
 saludable = healthy  
-estupenda = wonderful  
 hielo = ice  
   
 ### 24  
@@ -557,7 +556,7 @@ mi noche del año favorita = my favorite night of the year
   
 Oye / Mira 用于吸引别人注意 ~ Hey!  
 Qué te parece = What do you think  
-genial = cool  
+genial = cool, great  
 patio = backyard  
 acompañar = go with  
 sorpresa = surprise  
@@ -600,13 +599,14 @@ traje = suit
   pintar -> pintado  
   perder -> perdido, lost  
   dormir -> dormido  
-  apagar -> apagado, off  
+  apagar -> apagado, turn off  
+  encender -> encendido, turn on  
   
 deberías, debería =  you should, 正式  
-la luz = the light  
+la luz, luces = the light  
 mueble = furniture  
 cafetera = coffee maker  
-portátil = laptop  
+portátil, portátiles = laptop  
 la pared, paredes = the wall  
 el televisor = television  
 la alfombra = carpet  
@@ -615,7 +615,6 @@ estufa = stove 火炉
 el espejo = mirror  
 sillones = armchairs  
 lavadora = 洗衣机  
-encender = turn on  
 el sofá   
 la ropa = the clothes  
   
@@ -874,11 +873,6 @@ usar maquillaje = wear make-up
 champú = shampooñ  
   
 ### 40  
-+ 当动+宾：lo/la/los/las + v.  
-  e.g. Ya lo tengo.  
-+ 当有两个动词，宾放于动词前或加在不定式词后  
-  e.g. las voy a comprar = voy a comprarlas  
-  
 jamón = ham  
 cebolla = onion  
 litro = liter, 公升  
@@ -894,9 +888,61 @@ variedad = variety
 billetera = wallet  
 limón = lemon  
 pera = pear  
+  
+### 41  
+regla = ruler  
+estuche = case, box  
+detalle = detail  
+avanzado = advanced  
+claramente = clearly  
+consejo = advice  
+diferencia = difference  
+instrucciones = instructions, 复数名词  
+calendario = calendar  
+mochila = backpack  
+explicar = explain, teach  
+nivel = level  
+  
+### 42  
+a lo largo del ... = along  
+tantos = so many  
+rompecabezas = jigsaw puzzle, 单复同形  
+maravilloso = wonderful  
+postal = postcard  
+cometa = kite  
+carta = letter, menu, card  
+esquiar = ski  
+coleccionar = collect  
+raqueta = racket  
+estampilla = stamp  
+prestar = lend  
+velero = sailboat  
+navegar = sail  
+
+### 43  
++ 当动+宾（**直接宾语**）：lo/la/los/las + v.  
+  e.g. Ya lo tengo.  
++ 当有两个动词，直宾放于第一个动词前或加在第二个（不定式）词后  
+  e.g. las voy a comprar = voy a comprarlas  
++ 当**间接宾语**：me/te/le/nos/les + v.  
+  e.g. Yo le compro un regalo.  
++ 当有两个动词，间宾放于第一个动词前或加在第二个（不定式）词后    
+  e.g. Me puedes dar esa mochilla? = Puedes darme esa mochilla?  
++ 当**同时有直接宾语和间接宾语**时，间接宾语在前  
+  e.g. me lo trajiste / te la vamos a enviar   
++ 当有两个动词，同时把直宾间宾放在第二个动词后时，间接宾语在前    
+  e.g. Te quiero dar la computadora. = Quiero dártela.  
++ e.g. Le voy a ... a Lucía. 指代 a Lucía=le  
+    
+### 44    
+alformbra = carpet  
+debajo = underneath  
+batería = drums  
+has estado = you have been  
+Tienes razón. = You're right.  
 
 
-(0925)
+(0929)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
