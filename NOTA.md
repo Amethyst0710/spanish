@@ -19,7 +19,7 @@ preterite 一般过去时
 | nosotros  | viaj*amos* | com*imos* | viv*imos* | estuvimos | fuimos |
 | ellos | viaj*aron* | com*ieron* | viv*ieron* | estuvieron | fueron |
 
-lapiz, lapices = pencil  
+lápiz, lápices = pencil  
 pez, peces = fish  
 feliz, felices = happy  
 cerdo = pig  
@@ -110,9 +110,9 @@ acá/allá = here/there
 aprender/ayudar/empezar + **a** + v.  
 entrada = ticket  
 quedar = stay  
-+ llena = full  
-  vacía = empty  
-  llena de ... = full of ...  
++ lleno/llena = full  
+  vacío = empty  
+  estar lleno de ... = is full of ...  
   
 + next:  
   n. + que viene  
@@ -128,7 +128,6 @@ quedar = stay
   ir => yendo  
   decir, pedir => diciendo, pidiendo  
   dormir, morir => durmiendo, moriendo  
-  ir => yendo   
   
 Nosotros amamos a Duo!  
 
@@ -200,14 +199,14 @@ hay -> va a haber = there is going to be
 + llover, (él) llueve = rain, *v.*  
   lluvia = rain, *n.*  
   
-calurosa = hot  
+caluroso/caloroso = hot  
 comenzar/comienzas = start  
 el clima = weather  
 árboles = trees  
 dormir -> duerme  
 se encuentra/nos encontramos = meet up  
 cabello = hair  
-cepillarme = brush  
+cepillarme, se cepillar = brush  
     
 + el/la/los/las用于身体部位前  
   los dientes = their tooth  
@@ -312,10 +311,10 @@ al lado de = beside/next
 cuáles = which  
 palabras = words  
 boca = mouth  
-cabezas = heads  
+cabeza = head  
 nariz, narices = noses  
-brazos = arms  
-piernas = legs  
+brazo = arm  
+pierna = leg  
 barbar = beard  
 quedar = stay/get together  
 cada ... = every ...  
@@ -513,7 +512,6 @@ patineta = skateboard
   
 ¡Buen provecho! 一般在吃饭前说  
 asado = grilled  
-lleno = full  
 una excursión = hike  
 aceite = oil  
 saludable = healthy  
@@ -628,20 +626,21 @@ la ropa = the clothes
 hay que ... = one must ...  
 espalda = back  
 estómago = stomach  
-dedos = fingers  
+dedo = finger  
 cuello = neck  
 el jabón = soap  
 descansar = rest  
 pálido = pale  
 dolor de cabeza = headache  
+tiene dolor de + 部位 = ...痛  
 enfermero = nurse  
 cuidar = take care of  
 salud = health  
 ejercicio = exercise  
-dentista = dentist  
+dentista = dentist, 男女同形  
 actividades  
 accidente  
-cigarrillo = 烟  
+cigarrillo = cigarette  
 se cepillaron los dientes = 刷牙  
   
 ### 29  
@@ -650,8 +649,8 @@ se cepillaron los dientes = 刷牙
   saber que ...  
   
 cambiar = change  
-canal = channel  
-semanal = weekly  
+canal, canales = channel  
+semanal, semanales = weekly  
 periódico = newspaper  
 archivo = file  
 correcto = right  
@@ -664,7 +663,8 @@ ingeniero = engineer
 ### 30  
 + rápido = fast  
   lentamente = slowly  
-  
+
+peligro = danger  
 peligroso = dangerous  
 conejo = rabbit  
 cantar = sing  
@@ -712,11 +712,11 @@ patios de juego = playground
 por = for, through, by  
 castillo = castle  
 oscuro = dark  
-salón = hall  
+salón, salones = hall  
 montaña = mountain  
 violín = violin  
 oveja = sheep  
-mar = sea  
+mar, mares = sea  
 intentar = try  
 rezar = pray  
 sortija = ring  
@@ -819,13 +819,13 @@ la serpiente = snake
 naturaleza = nature  
 creer = believe  
 león = lion  
-corazón = heart  
+corazón, corazones = heart  
 desierto = desert  
 oro = gold  
 la miel = honey  
 collar = necklace  
 propio = own  
-vista = view  
+vista de = view of  
 pato = duck  
 puente = bridge  
 silvestre = wild  
@@ -835,7 +835,7 @@ magia = magic
 preterite 一般过去时  
 | 过去式 | saber | poder = can | poner = put | dormir |  
 | -- | -- | -- | -- | -- |  
-| yo | supe | pude | pose | dormí |  
+| yo | supe | pude | puse | dormí |  
 | tú | supiste | pudiste | pusiste | dormiste |  
 | él | supo | pudo | puso | durmió |  
 | nosotros  | supimos | pudimos | pusimos | dormimos |  
@@ -940,9 +940,127 @@ debajo = underneath
 batería = drums  
 has estado = you have been  
 Tienes razón. = You're right.  
+  
+### 45  
+cuerpo = body  
+dolor = pain  
+¿qué pasa? = what's wrong?  
+perdonar = forgive  
+huevo = egg  
+lanzar = throw, launch  
+papel higiénico = toilet paper  
+  
+### 46  
+información  
+entender = understand  
+No entiendo. = I don’t understand.  
+mamífero = mammal  
+tranquilo = calm, quiet  
+  
+### 47  
+[reference](https://zhuanlan.zhihu.com/p/511402456)  
+名词+s  
+1. 以元音结尾，直接+s;   
+  以重读的-á, -í 或 -ú结尾的单词，变复数时要加es  
+  escritorio, escritorios = desk  
+  bambú, bambúes = bamboo  
+  
+2. 大部分以辅音字母结尾的单词，变为复数时，需要  加"-es";   
+  名词变复数时，为了保持重音位置不变，有时需要添加  重音符号：joven / jóvenes；有时需要删掉重音符号  ：alemán / alemanes  
+  flor, flores = flower  
+  
+3. 以z结尾的单词，变复数时，把 z 变为 c 再加 es  
+   vez, veces  
+  
+4. 特殊情况  
+    + 单复数同形  
+      paraguas 雨伞  
+      gafas 眼镜  
+      trabalenguas 绕口令  
+      cascarrabias 暴脾气的人  
+      saltamontes 蚂蚱  
+      lavacoches 洗车工  
+      limpiabotas 擦鞋工  
+      paracaídas 降落伞  
+      pisapapeles 镇纸  
+      quitamanchas 去污剂  
+      mondadientes 牙签  
+      esposas 手铐  
+      cuelgacapas 衣架  
+      parabrisas 挡风玻璃  
+      parachoques 保险杠  
+      portaaviones 航空母舰  
+      salvavidas 救生圈  
+      microondas 微波炉   
+    + 只使用复数形式  
+      enseres 家具  
+      exequias 殡仪  
+      finanzas 财政，金融  
+      víveres 口粮  
+      esponsales 订婚仪式  
+      creces 富余  
+      cosquillas 咯吱，挠痒  
+      albricias 喜钱  
+      añicos 碎片  
+      arras 彩礼  
+      gachas 粥  
+      natillas 乳蛋糕，奶油冻  
+      callos 牛杂  
+    + 只使用单数形式  
+      cariz 外表  
+      cenit 顶点  
+      salud 健康  
+      sed 口渴  
+      zodíaco 十二宫  
+      caos 混沌  
+      génesis 起源  
+      norte 北  
+      sur 南  
+      tez 脸色  
+    + 变复数后，重音改变  
+      régimen — regímenes 制度  
+      espécimen — especímenes 样品  
+      carácter — caracteres 文字  
+      joven — jóvenes 年轻人  
+      canon — cánones 标准  
+      certamen — certámenes 挑战  
+      examen — exámenes 考试  
+      resumen — resúmenes 梗概  
+      volumen — volúmenes 音量  
+
+### 48  
+-  
+  
+### 49  
+casado = married  
+  
+### 50  
+reino = kingdom  
+creer en mí = believe in me  
+visitante = visitor, 男女同形  
+lejos = far  
+A tiene B = Qué B tiene A  
+  
+### 51  
+一般现在时  
+traer -> traigo  
+decir -> digo  
+humo = smoke, n.  
+qué pasó aquí = what happened here  
+anillo = ring  
+jarrón = vase  
+héroe = hero  
+quemar = burn  
+se quemó = it got burned  
+  
+### 52  
+bolsa = bag  
+decidir = decide  
+mil = thousand  
+miles de = thousands of  
 
 
-(0929)
+(1013)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
