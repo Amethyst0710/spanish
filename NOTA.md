@@ -108,8 +108,7 @@ acá/allá = here/there
   quiero  
   
 aprender/ayudar/empezar + **a** + v.  
-entrada = ticket  
-quedar = stay  
+entrada = ticket   
 + lleno/llena = full  
   vacío = empty  
   estar lleno de ... = is full of ...  
@@ -386,7 +385,7 @@ suficiente = enough
 nota = grade/note  
 a lo mejor = maybe  
 mejorar = improve  
-intento = try  
+intento = try, attempt, n.  
 noticias = news  
 excelente = excellent  
 cita = date  
@@ -445,8 +444,7 @@ piscante = spicy
   
 + really + a. = -ísimo  
   facilísimo, grandísimo 去元音  
-  
-acostarse = sleep  
+   
 gimnasio = gym  
 allí está ... = There's  
 odiar = hate  
@@ -455,8 +453,10 @@ odiar = hate
 ajedrez = chess, jugar al ajedrez  
 + preferir -> prefiere  
     
-+ te acuestas  
++ acostar = put to bed  
+  te acuestas  
   nos acostamos  
+  se acostaron  
   acostarme  
   
 + frecuentemente  
@@ -637,7 +637,7 @@ enfermero = nurse
 cuidar = take care of  
 salud = health  
 ejercicio = exercise  
-dentista = dentist, 男女同形  
+dentista = dentist, 阴阳同形  
 actividades  
 accidente  
 cigarrillo = cigarette  
@@ -885,6 +885,7 @@ champiñon = mushroom
 campeón = champion  
 lista = list, ready  
 variedad = variety  
+una variedad de  
 billetera = wallet  
 limón = lemon  
 pera = pear  
@@ -1029,7 +1030,7 @@ tranquilo = calm, quiet
       volumen — volúmenes 音量  
 
 ### 48  
--  
+/  
   
 ### 49  
 casado = married  
@@ -1037,7 +1038,7 @@ casado = married
 ### 50  
 reino = kingdom  
 creer en mí = believe in me  
-visitante = visitor, 男女同形  
+visitante = visitor, 阴阳同形  
 lejos = far  
 A tiene B = Qué B tiene A  
   
@@ -1058,9 +1059,77 @@ bolsa = bag
 decidir = decide  
 mil = thousand  
 miles de = thousands of  
+  
+### 53  
+/  
+  
+### 54  
+cuidado = care n., careful  
+pájaro = bird  
+escapar = escape  
+se escapó por = flew out of  
+jaula = cage  
+caer = fall  
+se cayó = fell  
+golpear = hit  
+apagar el fuego = 灭火  
+vela = candle, sail, n.  
+sacar = take out  
+basura = trash  
+mudarse = to move  
+vender = sell  
+quere [preterite]: quise, quisiste, quiso,   quisimos, quisieron  
+oler = smell  
+oler [present]: huelo, hueles, huele, olemos,   huelen  
+huele a ... = smells like  
+  
+### 55  
+quedarme = stay  
+homicidio = homicide  
+un programa = show  
+hacker, 阴阳同形  
+imprimir = print  
+impresor, impresora = printer  
+currículum = resume  
+borrar = delete  
+funcionar = work (mechanical devices and   systems)  
+conectar = connect  
+error, errores  
+cortar = cut, v.  
+corte = cut, n.  
+corte de pelo = haircut  
+además = besides  
+importar = matter, v.  
+no le importará = won't mind it  
+de repente = suddenly  
+director, directora = director, principal  
+condición = condition  
+  
+### 56    
+suponer = suppose  
+supongo = I guess  
+crecer = grow  
+te caen bien = you don't like  
+despedir = fire, say goodbye to, v.  
+tendré que = I will have to  
+significa = mean, v.  
+bastante = enough, quite a lot of, quite  
+bien hecho = well done  
+obrero = worker  
+todavía = still, yet  
+robar = steal  
+policía = police  
+salvaje = wild  
+la electricidad = electricity  
+nacional = national  
+puede ser que no = maybe not  
+  
++ 完成时, 最近完成  
+  haber + -ido/-ado  
+  haber: he/has/ha/hemos/han  
 
 
-(1013)
+(1021)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
