@@ -495,8 +495,8 @@ joven = *a.* young / *n.* young man
 | yo | jug*aba* | com*ía* | viv*ía* | era | iba | veía | estaba |    
 | tú | jug*abas* | com*ías* | viv*ías* | eras | ibas | veías | estabas |  
 | él | jug*aba* | com*ía* | viv*ía* | era | iba | veía | estaba |  
-| nosotros  | jug*ábamos* | com*íamos* | viv*íamos* | éramos | íbamos | veíamos | estabamos |  
-| ellos | juga*ban* | com*ían* | viv*ían* | eran | iban | veíasn | estaban |  
+| nosotros  | jug*ábamos* | com*íamos* | viv*íamos* | éramos | íbamos | veíamos | estábamos |  
+| ellos | juga*ban* | com*ían* | viv*ían* | eran | iban | veían | estaban |  
   
 bosque = wood/forest  
 galletas = cookies  
@@ -662,6 +662,7 @@ ingeniero = engineer
   
 ### 30  
 + rápido = fast  
+  rápidamente = quickly  
   lentamente = slowly  
 
 peligro = danger  
@@ -686,6 +687,7 @@ dinosaurio = dinosaur
   química = chemistry  
   geografía = geography  
   ciencia = science  
+  física = physics  
   
 aprobar = agree, pass  
 tazón = bowl, large cup  
@@ -1127,9 +1129,93 @@ puede ser que no = maybe not
 + 完成时, 最近完成  
   haber + -ido/-ado  
   haber: he/has/ha/hemos/han  
+  
+### 57  
+ocupación = occupation  
+recepcionista = receptionist, 阴阳同形  
+actriz = actress  
+actor = actor  
+cheque = check  
+perfume   
+cómo quiere pagar = how ...  
+aceptar = accept  
+recibo = receipt  
+vendedor, vendedora = salespeople  
+champán = champagne  
+arete = earring  
+brazalete = bracelet, 手镯  
+pijama 阴阳同形，拉美也用'piyama'  
+gratis = free  
+  
++ 命令(ustedes)换元音  
+  -ar: -an -> -en, trabajen  
+  -er/-ir: -en -> -an, coman  
+  me lo llevo = I'll take it.  
+  hacer -> hagan  
+  ir -> vayan  
+  
+### 58  
+descargar = download  
+teclado = keyboard  
+conductor, conductora = conductor  
+lento = slow  
+fotógrafo = photographer  
+pizarrón = whiteboard  
+copiar = copy  
+piloto = pilot  
+madera = wood  
+cantante = singer  
+entre = with, between  
+física = physics  
+  
+### 59  
++ muy + a. 不变  
+  mucho + v./n. 形式会变  
+  
++ ver = to see  
+  verse = to look 看起来  
+  
+cerebro = brain  
+procesar = process  
+vendaje = bandage  
+nacer = born  
+molesto = upset  
+alejado = far  
+usual = normal  
+fácilmente = easily  
+auxilio = help  
+caerse = fall  
+gravemente = seriously, badly  
+en forma = form  
+reírnos = laugh  
+olvidarse = forget  
+medicina = medicine  
+cambio = change  
+inmediatamente = immediately  
+pelo = hair  
+  
+### 60  
+hay -> había; there is/are, there was/were  
+castaño = brown  
+ama de casa = housewife  
+casi = almost  
+patinar = skate, v.  
+patin, patines = skate, n.  
+globo = balloon  
+liso = straight, smooth, plain  
+corto = short, 多用于长度  
+bajo = short, 多用于身高  
+escúter = scooter  
+payaso = clown  
+adolescente = teenager  
+zanahoria = carrot  
+mientras = while  
+póster = poster  
+armario = closet  
 
 
-(1021)
+
+(1025)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
