@@ -102,7 +102,6 @@ sigue/siga = continue on
 más cercano = nearest  
 llego(llegar) = get/arrive  
 libreriá = bookstore  
-carretera = highway  
 acá/allá = here/there  
 + me gustariá (more polite)  
   quiero  
@@ -324,7 +323,7 @@ soñar = dream
 lleva puesto = wearning  
   
 ### 14  
-llevar = carry  
+llevar = take, carry, wear  
 mantequilla = butter  
 la compra = groceries  
 vegetales = vegetables  
@@ -418,9 +417,9 @@ verdadero = real
 la reunión = meeting  
 desde = from  
 mientras = while  
-techo = ceiling  
+techo = ceiling, roof  
 noticia = news  
-terminar = finished  
+terminar = finish, end, break up with  
 amanecer = sunrise  
 detrás de = behind  
 no me importa ... = I don't care  
@@ -479,7 +478,7 @@ colega = colleague
 disponible = available  
 estantería = bookcase  
 papele = paper  
-empresa = company  
+empresa = company, business  
 joven = *a.* young / *n.* young man  
   
 ### 22  
@@ -664,6 +663,7 @@ ingeniero = engineer
 + rápido = fast  
   rápidamente = quickly  
   lentamente = slowly  
+  lento = slow  
 
 peligro = danger  
 peligroso = dangerous  
@@ -802,7 +802,7 @@ horario = schedule
 carpeta = folder  
 trabajador, trabajadores = worker   
 pintor = painter  
-compañía = empresa  
+compañía = company  
 empresario = businessman  
 repetir = repeat  
 presidente = president  
@@ -1091,7 +1091,8 @@ homicidio = homicide
 un programa = show  
 hacker, 阴阳同形  
 imprimir = print  
-impresor, impresora = printer  
+impresor, impresora = printer, 印刷工人  
+impresora = printer, 打印机  
 currículum = resume  
 borrar = delete  
 funcionar = work (mechanical devices and   systems)  
@@ -1144,7 +1145,7 @@ vendedor, vendedora = salespeople
 champán = champagne  
 arete = earring  
 brazalete = bracelet, 手镯  
-pijama 阴阳同形，拉美也用'piyama'  
+pijama 阴阳同形，西班牙用el pijama，拉美用la piyama  
 gratis = free  
   
 + 命令(ustedes)换元音  
@@ -1157,7 +1158,8 @@ gratis = free
 ### 58  
 descargar = download  
 teclado = keyboard  
-conductor, conductora = conductor  
+ratón = mouse  
+conductor, conductora = conductor, 司机    
 lento = slow  
 fotógrafo = photographer  
 pizarrón = whiteboard  
@@ -1172,21 +1174,18 @@ física = physics
 + muy + a. 不变  
   mucho + v./n. 形式会变  
   
-+ ver = to see  
-  verse = to look 看起来  
-  
 cerebro = brain  
 procesar = process  
 vendaje = bandage  
 nacer = born  
-molesto = upset  
+molesto = upset, annoying  
 alejado = far  
 usual = normal  
 fácilmente = easily  
 auxilio = help  
 caerse = fall  
 gravemente = seriously, badly  
-en forma = form  
+estar en forma = to keep fit, be in shape  
 reírnos = laugh  
 olvidarse = forget  
 medicina = medicine  
@@ -1212,10 +1211,73 @@ zanahoria = carrot
 mientras = while  
 póster = poster  
 armario = closet  
+  
+### 61  
++ ir = go  
+  irse = leave  
++ parar = stop  
+  pararse = stand up  
++ llevar = take  
+  llevarse = get along  
++ ver = see  
+  verse = see oneself, looks  
+  
+me gustaría, me encantaría = would like/love to  
+el mapa = map  
+autopista = freeway/highway  
+carretera = highway  
+avenida = avenue  
+gasolina = gas  
+sería una buena idea = would be a good idea  
+alrededor del = around  
+profundo = deep  
+cálido = warm  
+así que = so  
+porque = because  
+empacar = pack  
+ahorrar = save  
+resto = rest, remainder, n.  
+alquilar = rent  
+club  
+guía = guide, 阴阳同形  
+guía = guidebook  
+sueño = dream, sleep  
+  
+### 62  
++ just  
+  acabar(过) de + v.(原)， 西班牙多用  
+  recién + v.(过)， 拉美多用  
+  
+estante = shelf  
+cancelar = cancel  
+secar = dry, v.  
+mojar = get wet, v.  
+lavamanos = sink in the bathroom  
+fregadero = sink in the kitchen  
+ventilador = fan  
+tortilla = omelet, 玉米卷，鸡蛋饼  
+garaje = garage  
+bol, boles = bowl  
+cortina = curtain  
+rosado = pink, rosy, a.  
+el rosa = pink, n.  
+la rosa = rose, n.  
+joya = jewelry  
+pasillo = hall, aisle  
+gritar = shout  
+portón = main door  
+  
+### 63  
+concejo = council  
+  
+### 64  
+la sangre = blood  
+tocar = touch, play(music/instrument)  
+compartir = share  
+armario  
 
 
-
-(1025)
+(1030)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
