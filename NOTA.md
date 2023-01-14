@@ -77,9 +77,6 @@ cuenta = account
 fechas = dates  
 doy(dar) = give  
 mando(mandar) = send  
-+ le/les 间接宾语 e.g. Le compra la mesa.
-  lo/los 直接宾语 e.g. Yo te conozco.  
-
 + no + v. + nada 
   no + v. + nunca
   nunca + v.  
@@ -256,7 +253,6 @@ venir + a + place
 nos sentamos = sit  
 atrás = back  
 más alto = louder  
-preocuparme = worry  
 diccionario = dictionary  
 media hora = half an hour  
 ejemplo = example  
@@ -303,7 +299,6 @@ el cambió = change
   me gustó  
   
 sentarse, sentirme = feel  
-despertarme, me despierto = wake up  
 estar encima de = on top of  
 al lado de = beside/next  
 cuáles = which  
@@ -397,7 +392,7 @@ vino tinto = red wine
 lámpara = lamp  
 (tocar) toca a la puerta = knock the door  
 + (原型) 过去式  
-(derramar) derramé = leaked  
+(derramar) derramé = leaked, spill  
 (sentir) me sentí = I felted  
 (romper) rompí = broke  
 (regresar) regresé = comed back  
@@ -805,7 +800,7 @@ muriendo = dying
 horario = schedule  
 carpeta = folder  
 trabajador, trabajadores = worker   
-pintor = painter  
+pintor, pintores = painter  
 compañía = company  
 empresario = businessman  
 repetir = repeat  
@@ -857,7 +852,7 @@ por fin = finally
 preparar = prepare  
 nacimiento = birth  
 colina = hill  
-principio = beginning  
+principio = beginning, principle  
 ```Feminine nouns that begin with a stressed   "a-" or "ha-" sound in Spanish use the articles   "el" and "un" in the singular.```  
 el área  
   
@@ -880,7 +875,6 @@ champú = shampooñ
   
 ### 40  
 jamón = ham  
-cebolla = onion  
 litro = liter, 公升  
 lata = can  
 en oferta = on sale  
@@ -928,20 +922,27 @@ velero = sailboat
 navegar = sail  
 
 ### 43  
++ me/te/nos/le/les 间接宾语 e.g. Le compra la mesa.
+  me/te/nos/lo/los 直接宾语 e.g. Yo te conozco.  
+
 + 当动+宾（**直接宾语**）：lo/la/los/las + v.  
   e.g. Ya lo tengo.  
 + 当有两个动词，直宾放于第一个动词前或加在第二个（不定式）词后  
   e.g. las voy a comprar = voy a comprarlas  
+  
 + 当**间接宾语**：me/te/le/nos/les + v.  
   e.g. Yo le compro un regalo.  
 + 当有两个动词，间宾放于第一个动词前或加在第二个（不定式）词后    
   e.g. Me puedes dar esa mochilla? = Puedes darme esa mochilla?  
+  
 + 当**同时有直接宾语和间接宾语**时，间接宾语在前  
   e.g. me lo trajiste / te la vamos a enviar   
 + 当有两个动词，同时把直宾间宾放在第二个动词后时，间接宾语在前    
   e.g. Te quiero dar la computadora. = Quiero dártela.  
+
 + le/les（间接宾语）在lo/la/los/las(直接宾语)前时用se
   e.g. se la mandó
+
 + e.g. Le voy a ... a Lucía. 指代 a Lucía=le  
     
 ### 44    
@@ -1224,6 +1225,7 @@ zanahoria = carrot
 mientras = while  
 póster = poster  
 armario = closet  
+salir dl armario  
   
 ### 61  
 + ir = go  
@@ -1289,7 +1291,6 @@ concejo = council
 la sangre = blood  
 tocar = touch, play(music/instrument)  
 compartir = share  
-armario  
   
 ### 65  
 sería = it would be
@@ -1334,9 +1335,52 @@ gofas de sol = sunglasses
 vacía = empty  
 lluvia fuerte = hard rain  
 mecánico = mechanic, mechanical  
+  
+### 69  
+aroma = scent, smell  
+saber = know, taste  
+sabor = flavor  
+ajo = garlic  
+cebolla = onion  
+  
+### 70  
+bigote = mustache  
+desastre = disaster  
+raro = weird, rare  
+húmeda = tongue  
+cara = face, side, look, nerve  
+botella = bottle  
+curso = year, course  
+despertador = alarm clock  
+pelea = fight  
+  
+### 71  
++ lavarse = wash  
+  ducharse = take a shower  
+  manquillarse = do one's makeup  
+  reunirse = meet  
+  preocuparse de = worry about  
+  ponerse = put on  
+  despertarse = wake up  
+  prepararse = get ready  
+  divertirse = have fun  
+  
+### 72  
+salsa = sauce  
+gordo = fat, thick  
+video  
+mentira = lie  
+horóscopo = horoscope, 占星术  
+un par de veces = a couple of times  
+centavo = cent  
+un minuto y medio = 1.5m  
+  
+recordaos que no compranmos el pan, no的位置表明是忘了买而不是没忘，放最前面则表示没忘  
+Este botella es de un litro. un litro de leche, de   
+  
 
 
-(1103)
+(1120)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
