@@ -50,13 +50,13 @@ hace mucho tiempo = long times ago
 
 ### 04
 特殊变化过去式
-| 过去式 | hacer |
-| -- | -- |
-| yo | hice |
-| tú | hiciste |
-| él | hizo |
-| nosotros  | hicimos |
-| ellos | hicieron |
+| 过去式 | hacer | dar |  
+| -- | -- | -- |  
+| yo | hice | di |  
+| tú | hiciste | diste |  
+| él | hizo | dio |  
+| nosotros  | hicimos | dimos |  
+| ellos | hicieron | dieron |  
 
 ¿Con quien ...? = with whom ...?  
 ¿Adónde ...? = where ...?  
@@ -320,6 +320,7 @@ acordarte/acuerdo = remember
 acarbar = finish  
 gorda = fat  
 soñar = dream  
+soñar con + v.(原) = dream about/of  
 lleva puesto = wearning  
   
 ### 14  
@@ -331,7 +332,9 @@ vegetales = vegetables
   ve **a** casa = go home
 
 pagar sth. = pay for sth.  
-sitios = places  
+sitio = place  
+sitio (web) = website  
+la web  
 ir + a + v.  
 + for:  
   para用于目的，目的地，表示deadline    
@@ -688,6 +691,7 @@ dinosaurio = dinosaur
   geografía = geography  
   ciencia = science  
   física = physics  
+  biología = biology   
   
 aprobar = agree, pass  
 tazón = bowl, large cup  
@@ -863,7 +867,7 @@ tostada = toast
 mermelada = jam  
 calcetín, calcetines = sock  
 suave = soft  
-vestirse = get dressed  
+vestirse = estar vestidos = get dressed  
 perfecto  
 corbata = tie  
 peine = comb  
@@ -897,6 +901,7 @@ regla = ruler
 estuche = case, box  
 detalle = detail  
 avanzado = advanced  
+clara = clear
 claramente = clearly  
 consejo = advice  
 diferencia = difference  
@@ -935,6 +940,8 @@ navegar = sail
   e.g. me lo trajiste / te la vamos a enviar   
 + 当有两个动词，同时把直宾间宾放在第二个动词后时，间接宾语在前    
   e.g. Te quiero dar la computadora. = Quiero dártela.  
++ le/les（间接宾语）在lo/la/los/las(直接宾语)前时用se
+  e.g. se la mandó
 + e.g. Le voy a ... a Lucía. 指代 a Lucía=le  
     
 ### 44    
@@ -1130,6 +1137,12 @@ puede ser que no = maybe not
 + 完成时, 最近完成  
   haber + -ido/-ado  
   haber: he/has/ha/hemos/han  
+  特殊形式：  
+  hacer -> hecho  
+  decir -> dicho  
+  poner -> puesto  
+  escribir -> escrito  
+  ver -> visto  
   
 ### 57  
 ocupación = occupation  
@@ -1221,6 +1234,8 @@ armario = closet
   llevarse = get along  
 + ver = see  
   verse = see oneself, looks  
++ enterar = inform  
+  enterarse (de)= find out, know, notice  
   
 me gustaría, me encantaría = would like/love to  
 el mapa = map  
@@ -1275,9 +1290,53 @@ la sangre = blood
 tocar = touch, play(music/instrument)  
 compartir = share  
 armario  
+  
+### 65  
+sería = it would be
+temprano = early
+lavar = wash
+  
+### 66  
+y(and)在元音前用e  
+salida = exit  
+formulario = form  
+contacto = contact  
+quería decir(querer decir) = mean  
+sobre = on, envelope  
+asunto = matter  
+digital  
+suceder = happen  
+  
+### 67  
+hecho = fact  
+añadir = add  
+estudio = study, n.  
+vaya = wow  
+una multitud = crowd  
+tal = such  
+señal = sign  
+negativo = negative  
+surfear = surf  
+en cualquier lugar = anywhere  
+sonido = sound  
+ruta = route  
+por cierto = by the way  
+la luna = moon  
+la estrella = star  
+meta = goal  
+semestre = semester  
+en toda caso = in any case  
+  
+### 68  
+preocupado = worried  
+invitado = guest, invited  
+gofas de sol = sunglasses  
+vacía = empty  
+lluvia fuerte = hard rain  
+mecánico = mechanic, mechanical  
 
 
-(1030)
+(1103)
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
