@@ -113,7 +113,7 @@ entrada = ticket
   n. + que viene  
   próximo + n.  
   
-+ estar + doing  
++ estar/estaba + -ndo = is/were doing  
   habl*ar* => habl*ando*  
   com*er* => com*iendo*  
   abr*ir* => abr*iendo*  
@@ -288,6 +288,7 @@ el cambió = change
 | ocho | dieciocho | ochenta |  
 | nueve | diecinueve | noventa |  
   
++ cien = 一百，前面不用加 un   
 + 好像只有几十几的时候用y，其余时候不用  
 + 数字30~99 = 几十 + y + 几   
 + 数字x01~ = cineto + 几  
@@ -431,7 +432,6 @@ no te creo = I don't believe.
 pizarra = blackboard  
 hacia = towards  
 suficientemente = enough  
-reírse = laugh  
 morada = purple  
 piscante = spicy  
 + me gustó  
@@ -515,7 +515,7 @@ saludable = healthy
 hielo = ice  
   
 ### 24  
-teatros = theaters  
+teatro = theater  
 tomar un descanso = take a break  
 espectáculo = *n.* show  
 lago = lake  
@@ -960,6 +960,7 @@ perdonar = forgive
 huevo = egg  
 lanzar = throw, launch  
 papel higiénico = toilet paper  
+higiénico = hygienic, 卫生的  
   
 ### 46  
 información  
@@ -1138,6 +1139,11 @@ puede ser que no = maybe not
 + 完成时, 最近完成  
   haber + -ido/-ado  
   haber: he/has/ha/hemos/han  
+
+  recibir -> recibido  
+  ir -> ido  
+  estar -> estado  
+
   特殊形式：  
   hacer -> hecho  
   decir -> dicho  
@@ -1171,6 +1177,7 @@ gratis = free
   
 ### 58  
 descargar = download  
+cargar = load  
 teclado = keyboard  
 ratón = mouse  
 conductor, conductora = conductor, 司机    
@@ -1364,6 +1371,8 @@ pelea = fight
   despertarse = wake up  
   prepararse = get ready  
   divertirse = have fun  
+  reírse = laugh  
+  morirse = die  
   
 ### 72  
 salsa = sauce  
@@ -1378,9 +1387,33 @@ un minuto y medio = 1.5m
 recordaos que no compranmos el pan, no的位置表明是忘了买而不是没忘，放最前面则表示没忘  
 Este botella es de un litro. un litro de leche, de   
   
+### 73
+pinchado = flat
+neumático = tire
+a un lado de = at the side of
+a lo largo de = along
+acampar = camp
+hocky
+dibujo = drawing
 
+### 74
+libro de ejercicios = workbook
+tienda de campaña = tent
+estreno = premiere
+barro = mud
+No digas eso = 别这么说！
 
-(1120)
+### 75
+extraño = strange
+viento = wind
+limpiador = cleaner
+
+### 76
+personal = stuff
+departamento = department
+delante de = in front of
+cojin = cushion
+
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
