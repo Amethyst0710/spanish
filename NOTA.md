@@ -309,6 +309,7 @@ cabeza = head
 nariz, narices = noses  
 brazo = arm  
 pierna = leg  
+pie = foot  
 barbar = beard  
 quedar = stay/get together  
 cada ... = every ...  
@@ -419,8 +420,8 @@ mientras = while
 techo = ceiling, roof  
 noticia = news  
 terminar = finish, end, break up with  
+terminar de + v. = finish doing  
 amanecer = sunrise  
-detrás de = behind  
 no me importa ... = I don't care  
 surfista = surfer  
   
@@ -621,6 +622,7 @@ la ropa = the clothes
   te duelen  
   
 hay que ... = one must ...  
+no hay que ... = one must not...  
 espalda = back  
 estómago = stomach  
 dedo = finger  
@@ -1253,19 +1255,20 @@ carretera = highway
 avenida = avenue  
 gasolina = gas  
 sería una buena idea = would be a good idea  
-alrededor del = around  
+alrededor de = around  
 profundo = deep  
 cálido = warm  
 así que = so  
 porque = because  
 empacar = pack  
 ahorrar = save  
-resto = rest, remainder, n.  
-alquilar = rent  
+resto, el resto de = rest, remainder, n.  
+alquilar, rentar = rent  
 club  
 guía = guide, 阴阳同形  
 guía = guidebook  
 sueño = dream, sleep  
+sueño con = dream about  
   
 ### 62  
 + just  
@@ -1413,6 +1416,38 @@ personal = stuff
 departamento = department
 delante de = in front of
 cojin = cushion
+
+### 77
+esperar = wait, hope
+seguro de que = sure that
+enamorado = in love
+moreno = dark-haired
+
+que + v. + (others) + sb. ?
+el dos de enero del dos mil tres = 2rd Jan 2003
+del dos al diez de mayo = from 2rd ~ 10th May
+mañana 前不用加 en
+una mujer alta de cabello negro esperando a alguien, 从句
+n. + que + ... = 定语从句
+
+### 78
+cepillo = brush
+para siempre = forever
+tijeras =  scissors
+hay 不会根据后面跟的名词的单复数变化。
+
+### 79
+hablar de = talk about
+
+### 80
+un millón de euros
+único = only, unique
+obra de arte = work of art
+mostrador = counter
+frente a = in front of
+detrás de = behind  
+así = like this, this way
+
 
 
 
