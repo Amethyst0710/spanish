@@ -134,7 +134,6 @@ Nosotros amamos a Duo!
   ningun, algun  
   
 sth. bueno/malo = buen/mal sth.  
-elegir = choose  
 ambas = both  
 + cien = 100  
   ciento dos = 102  
@@ -331,7 +330,7 @@ vegetales = vegetables
 pagar sth. = pay for sth.  
 sitio = place  
 sitio (web) = website  
-la web  
+en la web  
 ir + a + v.  
 + for:  
   para用于目的，目的地，表示deadline    
@@ -500,8 +499,7 @@ bosque = wood/forest
 galletas = cookies  
 antes = previously  
 idioma = language  
-amable = *a.* kind  
-tranquila = calm/quiet  
+amable = *a.* kind   
 alumno = student  
 patineta = skateboard  
   
@@ -682,7 +680,7 @@ agricultor = farmer
 dinosaurio = dinosaur  
   
 ### 31  
-+ 学科  
++ asignatura = subject = 学科  
   historia = history  
   química = chemistry  
   geografía = geography  
@@ -927,12 +925,12 @@ navegar = sail
 + me/te/nos/le/les 间接宾语 e.g. Le compra la mesa.
   me/te/nos/lo/los 直接宾语 e.g. Yo te conozco.  
 
-+ 当动+宾（**直接宾语**）：lo/la/los/las + v.  
++ 当动+宾（**直接宾语**）：me/te/nos/lo/la/los/las + v.  
   e.g. Ya lo tengo.  
 + 当有两个动词，直宾放于第一个动词前或加在第二个（不定式）词后  
   e.g. las voy a comprar = voy a comprarlas  
   
-+ 当**间接宾语**：me/te/le/nos/les + v.  
++ 当**间接宾语**：me/te/nos/le/les + v.  
   e.g. Yo le compro un regalo.  
 + 当有两个动词，间宾放于第一个动词前或加在第二个（不定式）词后    
   e.g. Me puedes dar esa mochilla? = Puedes darme esa mochilla?  
@@ -969,7 +967,7 @@ información
 entender = understand  
 No entiendo. = I don’t understand.  
 mamífero = mammal  
-tranquilo = calm, quiet  
+tranquilo = calm, quiet, peaceful  
   
 ### 47  
 [reference](https://zhuanlan.zhihu.com/p/511402456)  
@@ -1131,7 +1129,7 @@ bastante = enough, quite a lot of, quite
 bien hecho = well done  
 obrero = worker  
 todavía = still, yet  
-robar = steal  
+robarse = steal  
 policía = police  
 salvaje = wild  
 la electricidad = electricity  
@@ -1152,6 +1150,7 @@ puede ser que no = maybe not
   poner -> puesto  
   escribir -> escrito  
   ver -> visto  
+  abrir -> abrierto  
   
 ### 57  
 ocupación = occupation  
@@ -1334,6 +1333,7 @@ ruta = route
 por cierto = by the way  
 la luna = moon  
 la estrella = star  
+universo = universe  
 meta = goal  
 semestre = semester  
 en toda caso = in any case  
@@ -1417,37 +1417,94 @@ departamento = department
 delante de = in front of
 cojin = cushion
 
-### 77
-esperar = wait, hope
-seguro de que = sure that
-enamorado = in love
-moreno = dark-haired
+### 77  
+esperar = wait, hope  
+seguro de que = sure that  
+enamorado = in love  
+moreno = dark-haired  
+  
+que + v. + (others) + sb. ?  
+el dos de enero del dos mil tres = 2rd Jan 2003  
+del dos al diez de mayo = from 2rd ~ 10th May  
+mañana 前不用加 en  
+una mujer alta de cabello negro esperando a alguien, 从句  
+n. + que + ... = 定语从句  
+  
+### 78  
+cepillo = brush  
+para siempre = forever  
+tijeras =  scissors  
+hay 不会根据后面跟的名词的单复数变化。  
+  
+### 79  
+hablar de = talk about  
+  
+### 80  
+un millón de euros  
+único = only, unique  
+obra de arte = work of art  
+mostrador = counter  
+frente a = in front of  
+detrás de = behind    
+así = like this, this way  
+empleado = employee  
+una fila larga = long line  
 
-que + v. + (others) + sb. ?
-el dos de enero del dos mil tres = 2rd Jan 2003
-del dos al diez de mayo = from 2rd ~ 10th May
-mañana 前不用加 en
-una mujer alta de cabello negro esperando a alguien, 从句
-n. + que + ... = 定语从句
+### 81
+equipo de fútbol favorito
+deber = should
+conocer = know, meet
+cinturón = belt
+dejar = leave, let
 
-### 78
-cepillo = brush
-para siempre = forever
-tijeras =  scissors
-hay 不会根据后面跟的名词的单复数变化。
+### 82
++ -ito/a/os/as = sth. little / show affection
+  e.g. hermanito, perritos, mesitas, pequeñitos
+  bajito = really short
+  viejito = old person
 
-### 79
-hablar de = talk about
+### 83
+seguir = follow
+silencio = silence
+hemos conocido = we've been on
+estar a la izquierda 
+antivirus
+la pasante = intern, assistant, 阴阳同形
+trabajar como pasante = work as ...
+quisiera = I would like 
+presentar = introduce
+adulto = adult
+casarse = get married
+soltero = single, n., a.
+llevarse bien con = get along with
+jalea = jelly
+aconsejar = advise
+graduado = graduate
+escoger = choose, 多选一常用
+elegir = choose, 用作具有特定目的的人或事物的选择时常用，如被选中从事兼职
 
-### 80
-un millón de euros
-único = only, unique
-obra de arte = work of art
-mostrador = counter
-frente a = in front of
-detrás de = behind  
-así = like this, this way
+### 84
+miembro = member, 阴阳同形
+igual = equal, the same
+bistec = steak
+poquito = a little bit
+manta = blanket
+este/esta/esto(中性，用于不确定时)
+turismo = tourism
+en el sur/norte/oeste/este = in the south/north/west/east
+ancho = wide, width
 
++ se + v. = 被动
+  e.g. 
+  se habla = it's spoken
+  se dice que = it's said that
+  se cree que = it's believed that
+  se usa/vende
+
+mejorar = improve
+cuadra = block
+estar felices **de** verte
+estar **a** tres cuadras de aquí
 
 
 
