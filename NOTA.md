@@ -104,7 +104,7 @@ acá/allá = here/there
   quiero  
   
 aprender/ayudar/empezar + **a** + v.  
-entrada = ticket   
+entrada = entrance, ticket   
 + lleno/llena = full  
   vacío = empty  
   estar lleno de ... = is full of ...  
@@ -148,7 +148,6 @@ pronto = soon
   用于名词前无o  
   
 llaves = keys  
-ir de compras = go shopping  
 lentes = glasses  
 + efectivo = cash  
   tarjeta de crédito = credit card  
@@ -381,7 +380,6 @@ No entiendo = I don't understand.
 contenta = happy  
 suficiente = enough  
 nota = grade/note  
-a lo mejor = maybe  
 mejorar = improve  
 intento = try, attempt, n.  
 noticias = news  
@@ -530,6 +528,7 @@ receta = recipe
 horno = oven  
 mostrar -> mostrando = *v.* show  
 cierto = true  
+es cierto = it's true  
 verdad = truth, true  
 equipo = team  
   
@@ -822,7 +821,6 @@ creer = believe
 león = lion  
 corazón, corazones = heart  
 desierto = desert  
-oro = gold  
 la miel = honey  
 collar = necklace  
 propio = own  
@@ -848,7 +846,6 @@ ocurrir = happen
 siglo = century  
 conocido = famous, familiar  
 charla = chat  
-por fin = finally  
 preparar = prepare  
 nacimiento = birth  
 colina = hill  
@@ -1044,7 +1041,9 @@ tranquilo = calm, quiet, peaceful
 /  
   
 ### 49  
+casarse = get married  
 casado = married  
+soltero = single, n., a.  
   
 ### 50  
 reino = kingdom  
@@ -1324,7 +1323,6 @@ estudio = study, n.
 vaya = wow  
 una multitud = crowd  
 tal = such  
-señal = sign  
 negativo = negative  
 surfear = surf  
 en cualquier lugar = anywhere  
@@ -1444,67 +1442,151 @@ un millón de euros
 único = only, unique  
 obra de arte = work of art  
 mostrador = counter  
-frente a = in front of  
-detrás de = behind    
 así = like this, this way  
 empleado = employee  
 una fila larga = long line  
 
-### 81
-equipo de fútbol favorito
-deber = should
-conocer = know, meet
-cinturón = belt
-dejar = leave, let
++ frente a = in front of  
+  detrás de = behind    
 
-### 82
-+ -ito/a/os/as = sth. little / show affection
-  e.g. hermanito, perritos, mesitas, pequeñitos
-  bajito = really short
-  viejito = old person
+### 81  
+equipo de fútbol favorito  
+deber = should  
+conocer = know, meet  
+cinturón = belt  
+dejar = leave, let  
+  
+### 82  
++ -ito/a/os/as = sth. little / show affection  
+  e.g. hermanito, perritos, mesitas, pequeñitos  
+  bajito = really short  
+  viejito = old person  
+  
+### 83  
+seguir = follow  
+silencio = silence  
+hemos conocido = we've been on  
+estar a la izquierda   
+antivirus  
+la pasante = intern, assistant, 阴阳同形  
+trabajar como pasante = work as ...  
+quisiera = I would like   
+presentar = introduce  
+adulto = adult  
+llevarse bien con = get along with  
+jalea = jelly  
+aconsejar = advise  
+graduado = graduate  
+escoger = choose, 多选一常用  
+elegir = choose, 用作具有特定目的的人或事物的选择时常用，如被选中从事兼职  
+  
+### 84  
+miembro = member, 阴阳同形  
+igual = equal, the same  
+bistec = steak  
+poquito = a little bit  
+manta = blanket  
+este/esta/esto(中性，用于不确定时)  
+turismo = tourism  
+en el sur/norte/oeste/este = in the south/north/west/east  
+ancho = wide, width  
+  
++ se + v. = 被动  
+  e.g.   
+  se habla = it's spoken  
+  se dice que = it's said that  
+  se cree que = it's believed that  
+  se espera que = it's expected that  
+  se usa/vende/oferecen  
+  
+mejorar = improve  
+cuadra = block  
+estar felices **de** verte  
+estar **a** tres cuadras de aquí  
+  
+### 85  
+将来未完成时  
+|  | hablar | comer   | vivir     |  
+| --    | --        | --        | --        |  
+| yo    | hablaré   | comeré    | viviré      |  
+| tú    | hablarás| comerás   | vivirás |  
+| él    | hablará   | comerá     | vivirá    |  
+| nosotros  | hablaremos | comeremos | viviremos |  
+| ellos | hablarán | comerán | vivirán |  
+  
+cuántos años más ... = how many more years ...  
+trompeta = trumpet  
+el sonido **de** tus palabras  
+andén = platform  
+escaleras = stairs  
+  
+### 86  
+el primer piso = fround floor  
+preguntar = ask  
+toalla = towel  
+cuero = leather  
+significar = mean  
+ferrocarril = railroad  
+plástico = plastic  
+mesero = waiter  
+subirse a = get on   
+esquina = corner  
+perderse = get lost  
+protesta = protest  
+  
++ ir de compras = go shopping    
+  ir de pesca = go fishing  
++ caso = case  
+  acaso = perhaps  
+  por si acaso = just in case  
+  en todo caso = in any case  
 
-### 83
-seguir = follow
-silencio = silence
-hemos conocido = we've been on
-estar a la izquierda 
-antivirus
-la pasante = intern, assistant, 阴阳同形
-trabajar como pasante = work as ...
-quisiera = I would like 
-presentar = introduce
-adulto = adult
-casarse = get married
-soltero = single, n., a.
-llevarse bien con = get along with
-jalea = jelly
-aconsejar = advise
-graduado = graduate
-escoger = choose, 多选一常用
-elegir = choose, 用作具有特定目的的人或事物的选择时常用，如被选中从事兼职
+### 87  
+lecciones de idiomas gratis = free language class  
+retraso = delay  
+dónde queda = where is it  
+página = page  
+bulevar = boulevard 大道  
+qué tan lejos de aquí está ... = how far from here it is ...  
+tráfico = traffic  
+mínimo = minimum  
+agresivo = aggressive  
+  
++ el letrero = sign  
+  la señal = signal, sign多用于交通标志  
+  
++ oro = gold  
+  plata = silver  
+  cobre = copper  
+  
++ la celebridad (no male format)  
+  él/ella es una celebridad.  
+  celebridades masculinas/femeninas  
+  
+### 88  
+mono = monkey  
+moño = bun, 发髻  
+título = title, degree  
+suerte = luck  
+objetivo = objective  
+futuro = future  
+de moda = in fashion  
+posiblemente = a lo mejor = tal vez = maybe  
+etcétera = etc, et cetera  
+volverse = become  
+finalmente = por fin = finally  
+adivinar = guess  
+competencia = competition  
+ganador, ganadora = winner  
+de todas formas = anyway  
+eléctrico = electric  
+tratar = treat  
+  
++ try  
+  intentar = tratar de = sb trying to do sth    
+  probar = try food  
+  probarse = try on clothing  
 
-### 84
-miembro = member, 阴阳同形
-igual = equal, the same
-bistec = steak
-poquito = a little bit
-manta = blanket
-este/esta/esto(中性，用于不确定时)
-turismo = tourism
-en el sur/norte/oeste/este = in the south/north/west/east
-ancho = wide, width
-
-+ se + v. = 被动
-  e.g. 
-  se habla = it's spoken
-  se dice que = it's said that
-  se cree que = it's believed that
-  se usa/vende
-
-mejorar = improve
-cuadra = block
-estar felices **de** verte
-estar **a** tres cuadras de aquí
 
 
 
