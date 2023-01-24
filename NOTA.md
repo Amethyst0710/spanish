@@ -686,8 +686,8 @@ dinosaurio = dinosaur
   ciencia = science  
   física = physics  
   biología = biology   
+  matemática = math  
   
-aprobar = agree, pass  
 tazón = bowl, large cup  
 copa 高脚杯  
 varios = several  
@@ -962,6 +962,7 @@ higiénico = hygienic, 卫生的
 ### 46  
 información  
 entender = understand  
+entenderse = understand each other  
 No entiendo. = I don’t understand.  
 mamífero = mammal  
 tranquilo = calm, quiet, peaceful  
@@ -1318,7 +1319,6 @@ suceder = happen
   
 ### 67  
 hecho = fact  
-añadir = add  
 estudio = study, n.  
 vaya = wow  
 una multitud = crowd  
@@ -1358,7 +1358,7 @@ raro = weird, rare
 húmeda = tongue  
 cara = face, side, look, nerve  
 botella = bottle  
-curso = year, course  
+curso = school year, course  
 despertador = alarm clock  
 pelea = fight  
   
@@ -1461,6 +1461,7 @@ dejar = leave, let
   e.g. hermanito, perritos, mesitas, pequeñitos  
   bajito = really short  
   viejito = old person  
+  poquito = a little bit(<-poco)  
   
 ### 83  
 seguir = follow  
@@ -1484,7 +1485,6 @@ elegir = choose, 用作具有特定目的的人或事物的选择时常用，如
 miembro = member, 阴阳同形  
 igual = equal, the same  
 bistec = steak  
-poquito = a little bit  
 manta = blanket  
 este/esta/esto(中性，用于不确定时)  
 turismo = tourism  
@@ -1544,6 +1544,7 @@ protesta = protest
 ### 87  
 lecciones de idiomas gratis = free language class  
 retraso = delay  
+tres horas de retraso  
 dónde queda = where is it  
 página = page  
 bulevar = boulevard 大道  
@@ -1586,7 +1587,87 @@ tratar = treat
   intentar = tratar de = sb trying to do sth    
   probar = try food  
   probarse = try on clothing  
-
+  
+### 89  
+pregunta = question  
+hacer preguntas = ask questions  
+seguramente = probably  
+llevar puesto = wear  
+cállate = shut up, be quiet  
+fideo = noodle  
+apurarse = hurry  
+si = if  
+sí = yes  
+ir para el norte  
+a las mil maravillas = 极好，非常  
+sincero = sincere  
+aunque = even though  
+hacer la pelota = 拍马屁，讨好  
+hablar un poquito de francésbuscar tres pies al gatoseñalar a uno con el dedo  
+  
+ortografía = spelling  
+principiante = biginner  
+  
+语序：  
+se halba italiano en ...  
+estarán ellas allí?  
+  
++ reprobar = condemn, fail  
+  aprobar = agree, pass  
+  
+### 90  
+A caballo regalado no le mira los dientes. 对别人送的礼物，不要看价值，而要看重心意。  
+dormir a pierna suelta/tendida = 高枕无忧，睡得很香  
+buscar tres pies al gato = 自找麻烦，冒无谓的风险  
+señalar a uno con el dedo 指责，议论  
+innumerable = innumerable 无数的  
+pecado = sin  
+pinta = spot, dot  
+tener pinta de = 有...的样子  
+dique = dock  
+en el dique seco = 处于不能进行正常工作状态  
+permanecer = stay 处在，停留  
+（permanecer vs quedarse ?）  
+temporada = season, period of time  
+en serio = seriously  
+al fin y al cabo = after all  
+  
+### 91  
+basurero = garbage dump  
+objeto = object  
+deletrear = spell  
+medias = tights, 紧身衣  
+mal = bad, wrong  
+vocabulario = vocabulary  
+segundo = second (s)  
+guante = glove  
+borrador = eraser, draft  
+básico = basic  
+incluso = even  
+cuadrado = square  
+lado = side  
+todos menos ese = all minus that  
+espacio = space  
+chocar = crash  
+calle de sentido = one-way street  
+  
++ sumar = add, often in math  
+  añadir = add    
+  
+### 92  
+ir en la dirección equivocada = go in the wrong direction  
+atrapar = catch  
+sospecha = suspicion  
+la mente = mind  
+venir a la mente = come to mind  
+subir, subirse = climb, go up, raise, get on  
+subírsele a la cabeza = 使头晕，微醺  
+tener prisa = in a hurry  
+es por eso = that's way  
+mismo = same, the same one  
+vestíbulo = lobby  
+doble = double  
+dorado = golden  
 
 
 
