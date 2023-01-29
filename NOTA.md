@@ -83,6 +83,7 @@ mando(mandar) = send
 
 gerente = manager  
 helado = ice icream  
+heladería = ice cream parlor, ice cream store  
 la razón = reason  
 por supuesto = of course  
 empleo = job  
@@ -1169,7 +1170,9 @@ brazalete = bracelet, 手镯
 pijama 阴阳同形，西班牙用el pijama，拉美用la piyama  
 gratis = free  
   
-+ 命令(ustedes)换元音  
++ 命令  
+  (usted/groups)换元音, (tú)去s, 
+  te/se/lo等词直接加在命令动词的后面。¡límpialo!      
   -ar: -an -> -en, trabajen  
   -er/-ir: -en -> -an, coman  
   me lo llevo = I'll take it.  
@@ -1184,7 +1187,8 @@ ratón = mouse
 conductor, conductora = conductor, 司机    
 lento = slow  
 fotógrafo = photographer  
-pizarrón = whiteboard  
+pizarra = blackboard, whiteboard, often refer to chalkboard  
+pizarrón = blackboard, whiteboard  
 copiar = copy  
 piloto = pilot  
 madera = wood  
@@ -1442,11 +1446,10 @@ un millón de euros
 único = only, unique  
 obra de arte = work of art  
 mostrador = counter  
-así = like this, this way  
 empleado = employee  
 una fila larga = long line  
 
-+ frente a = in front of  
++ frente a = in front of, facing  
   detrás de = behind    
 
 ### 81  
@@ -1457,6 +1460,47 @@ cinturón = belt
 dejar = leave, let  
   
 ### 82  
+[reference](https://www.happyhourspanish.com/those-little-diminutives-in-spanish/)    
+-ito/a/os/as = sth. little / show affection    
+1. 以o/a结尾  
+  casa -> casita  
+  pollo -> pollito  
+  pájaro ->pajarito  
+2. 以e结尾     
+  Keep the last vowel (e) and add 'cito':  
+  café -> cafecito  
+  fuente -> fuentecita  
+  suave -> suavecito  
+3. 以n/r结尾   
+  add 'cito' to the end:  
+  amor -> amorcito  
+  rincón -> rinconcito  
+  camion -> camioncito  
+4. 其他辅音  
+  Add 'ito/ita' to the end of the word:  
+  pastel -> pastelito  
+  puñal -> puñalits  
+  reloj -> relojito     
+5. 特殊的  
+  + add 'ecito/ecita' either following a consonant or replacing the final vowel. common also for c/z.  
+  nuevo -> nuevecito  
+  flor -> florecita  
+  luz – > lucecita  
+  + c->qu  
+  poco -> poquito  
+  cerca -> cerquita  
+  chica -> chiquita  
+  + z->c  
+  lápiz -> lapicito  
+  pez – > pececito  
+  cerveza -> cervcita    
+  + g->gu (g-a or g-o)  
+  amigo -> amiguito  
+  + others, 'illo', 'zuelo', or 'ico'  
+  bolso -> bolsillo  
+  mujer -> mujerzuela (negative)  
+  perro -> perrito vs perrico  
+  
 + -ito/a/os/as = sth. little / show affection  
   e.g. hermanito, perritos, mesitas, pequeñitos  
   bajito = really short  
@@ -1665,10 +1709,72 @@ subírsele a la cabeza = 使头晕，微醺
 tener prisa = in a hurry  
 es por eso = that's way  
 mismo = same, the same one  
-vestíbulo = lobby  
+vestíbulo = lobby, hall  
 doble = double  
 dorado = golden  
-
+  
+### 93  
+menos mal (que) = luckily (that), it is a good thing (that)  
+conducir = drive  
+snowboarding  
+atractivo = attractive  
+tipo = type, guy  
+este tipo = this guy  
+oración = prayer, sentence  
+experimento = experiment  
+asomar = stick out, 露出  
+Asoma el día. = 破晓  
+época = period, epoch  
+acogido = refugee, 受欢迎的  
+acoger = receive  
+Espero que sí. = I hope so.  
+ascensor = elevator  
+extranjero = foreign, foreigner, abroad(need use as el before)  
+metro = meter, metro  
+cruzar = cross  
+  
+### 94  
+cancelacíon = cancellation  
+Y ahora cómo hacemos? = Now what do we do?  
+escalar = climb  
+manera = way  
+perder = lose, miss  
+indicacíon = sign, signal, direction, instruction  
+almohada = pillow  
+pila = battery  
+musulmán, musulmana = Muslim  
+mezquita = mosque  
+montañero = mountaineering, 登山的  
+hacer viaje = take a trip  
+  
+### 95  
+lapso = lapse  
+en un lapso de unos días  
+estar **a** unos metros de ...  
+qué buena suerte = what good luck  
+la ventana mira al este. ( mira = towards  
+conferencia = conference, lecture  
+un formulario de solicitud de emplao  
+solicitud = application  
+emplao = employment, job  
+como el de ... = like the one of ..., 像...一样  
+monstruo = monster  
+  
+### 96  
+así = like this, this way  
+Así se hace. = That's how it's done.  
+acordarse = remember  
+Bien pensado. = Good thinking.  
+justo = fair, just  
+riqueza = wealth  
+estar en menos de = 由...承担，在...掌握之中  
+ladrón = thief  
+declararse = declare oneself  
+ser/declararse/sentirse culpable = 有罪的，应谴责的  
+recrease = entertain, tak pleasure in  
+estar/tener en números rojos = 透支  
+meter dinero en los cuenta = 存钱  
+sacar dinero = 取钱  
 
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
