@@ -41,7 +41,6 @@ aula = classroom
 | ellos | -an | -en | -en | van | son |  
 
 querido/querida = dear  
-invierno = winter  
 ya = already/yet  
 depués de ... = after ...  
 anoche = last night  
@@ -59,7 +58,7 @@ hace mucho tiempo = long times ago
 | ellos | hicieron | dieron |  
 
 ¿Con quien ...? = with whom ...?  
-¿Adónde ...? = where ...?  
+¿Adónde ... va? = where ... go to?  
 aldea = village  
 perferido = favorite  
 cerveza = beer  
@@ -161,13 +160,13 @@ gran + sth. = great ...
   el mió/la tuya  
 
 -gir/-ger (elegir/coger) => yo elejo/cojo  
-| 现在时 | elegir(e->i) / servir / pedir | oír = hear | poner = put | saber = know | poder = can, almorzar | perder = lost, cerrar = close |
-| -- | -- | -- | -- | -- | -- | -- |
-| yo | elijo | oigo | pongo | sé | puedo | pierdo |
-| tú | eliges | oyes | pones | sabes | puedes | pierdos |
-| él | elige | oye | pone | sabe | puede | piede |
-| nosotros  | elegimos | oímos | ponemos | sabemos | podemos | perdemos |
-| ellos | eligen | oyen | ponen | saben | pueden | pierden |
+| 现在时 | elegir(e->i) / servir / pedir | oír = hear | poner = put | saber = know | poder = can, almorzar | perder = lost, cerrar = close | venir = come |  
+| -- | -- | -- | -- | -- | -- | -- | -- |  
+| yo | elijo | oigo | pongo | sé | puedo | pierdo | vengo |  
+| tú | eliges | oyes | pones | sabes | puedes | pierdos | vienes |  
+| él | elige | oye | pone | sabe | puede | piede | viene |  
+| nosotros  | elegimos | oímos | ponemos | sabemos | podemos | perdemos | venimos |  
+| ellos | eligen | oyen | ponen | saben | pueden | pierden | vienen |  
 
 vieja = old  
 creo que sí = I think so  
@@ -187,10 +186,10 @@ hay -> va a haber = there is going to be
 + fue:  ir 过去式/was  
   fueron: ir 过去式/were  
   
-+ nevar, (él) nieva = snow, *v.*  
++ nevar, (él) nieva(present), nevaba(imperfecto), nevó(past), nevará(future) = snow, *v.*  
   nieve = snow, *n.*  
   
-+ llover, (él) llueve = rain, *v.*  
++ llover, (él) llueve(present), llovía(imperfecto), llovió(past), lloverá(future) = rain, *v.*  
   lluvia = rain, *n.*  
   
 caluroso/caloroso = hot  
@@ -250,7 +249,7 @@ venir + a + place
   me encontrar = to meet  
   
 nos sentamos = sit  
-atrás = back  
+atrás = behind, back  
 más alto = louder  
 diccionario = dictionary  
 media hora = half an hour  
@@ -409,7 +408,7 @@ sonar = ring
 claro que no! = of course no  
 contestar = answer  
 todaviá = still  
-verdadero = real  
+verdadero = true, real  
   
 ### 18  
 la reunión = meeting  
@@ -419,7 +418,7 @@ techo = ceiling, roof
 noticia = news  
 terminar = finish, end, break up with  
 terminar de + v. = finish doing  
-amanecer = sunrise  
+amanecer = dawn, sunrise  
 no me importa ... = I don't care  
 surfista = surfer  
   
@@ -557,7 +556,6 @@ sorpresa = surprise
 centro = downtown  
 conversar = talk  
 pena = shame  
-ven = come, venir tú 命令式  
 parece + a. = it seems + a.  
 parrilla = grill  
   
@@ -673,7 +671,7 @@ verdura = vegetable
 días de trabajo = workdays  
 edad, edades = age  
 gramática = gramma  
-pesado = heavy  
+pesado = heavy, annoying  
 oso = bear  
 insecto = insect  
 agricultor = farmer  
@@ -697,7 +695,7 @@ cuaderno = notebook
 prueba = test 试验，考试  
 balonmano = handball  
 corredor, corredores = runner  
-carrera = race 比赛  
+carrera = race 比赛, career  
   
 ### 32  
 Había una vez = once upon a time, there was ...  
@@ -1090,9 +1088,9 @@ sacar = take out
 basura = trash  
 mudarse = to move  
 vender = sell  
-quere [preterite]: quise, quisiste, quiso,   quisimos, quisieron  
+quere [preterite]: quise, quisiste, quiso, quisimos, quisieron  
 oler = smell  
-oler [present]: huelo, hueles, huele, olemos,   huelen  
+oler [present]: huelo, hueles, huele, olemos, huelen  
 huele a ... = smells like  
   
 ### 55  
@@ -1112,8 +1110,9 @@ cortar = cut, v.
 corte = cut, n.  
 corte de pelo = haircut  
 además = besides  
-importar = matter, v.  
+importar = matter, import, v.  
 no le importará = won't mind it  
+te importará mucho = will matter to you  
 de repente = suddenly  
 director, directora = director, principal  
 condición = condition  
@@ -1169,15 +1168,6 @@ arete = earring
 brazalete = bracelet, 手镯  
 pijama 阴阳同形，西班牙用el pijama，拉美用la piyama  
 gratis = free  
-  
-+ 命令  
-  (usted/groups)换元音, (tú)去s, 
-  te/se/lo等词直接加在命令动词的后面。¡límpialo!      
-  -ar: -an -> -en, trabajen  
-  -er/-ir: -en -> -an, coman  
-  me lo llevo = I'll take it.  
-  hacer -> hagan  
-  ir -> vayan  
   
 ### 58  
 descargar = download  
@@ -1378,6 +1368,8 @@ pelea = fight
   divertirse = have fun  
   reírse = laugh  
   morirse = die  
+  levantarse = get up  
+  acordarse = remember  
   
 ### 72  
 salsa = sauce  
@@ -1672,7 +1664,6 @@ dique = dock
 en el dique seco = 处于不能进行正常工作状态  
 permanecer = stay 处在，停留  
 （permanecer vs quedarse ?）  
-temporada = season, period of time  
 en serio = seriously  
 al fin y al cabo = after all  
   
@@ -1696,7 +1687,8 @@ chocar = crash
 calle de sentido = one-way street  
   
 + sumar = add, often in math  
-  añadir = add    
+  añadir = add, (添加到集合中)    
+  agregar = add， (添加到其他类似事物中)  
   
 ### 92  
 ir en la dirección equivocada = go in the wrong direction  
@@ -1750,7 +1742,8 @@ hacer viaje = take a trip
 ### 95  
 lapso = lapse  
 en un lapso de unos días  
-estar **a** unos metros de ...  
+estar a unos metros de ...  
+a unos = about  
 qué buena suerte = what good luck  
 la ventana mira al este. ( mira = towards  
 conferencia = conference, lecture  
@@ -1763,7 +1756,6 @@ monstruo = monster
 ### 96  
 así = like this, this way  
 Así se hace. = That's how it's done.  
-acordarse = remember  
 Bien pensado. = Good thinking.  
 justo = fair, just  
 riqueza = wealth  
@@ -1775,6 +1767,300 @@ recrease = entertain, tak pleasure in
 estar/tener en números rojos = 透支  
 meter dinero en los cuenta = 存钱  
 sacar dinero = 取钱  
+  
+### 97  
+conducir [preterite]: conduje, condujiste, condujo, condujimos, condujeron  
+yo conduzco(present)  
+visita = guest  
+corredor = hallway  
+aviso = notice, ad  
+paquete = package, packet  
+ofrecer = offer  
+las uvas = grapes  
+deseo = wish, n.  
+desear = want, wish, v.  
+crema = cream  
+llenar = fill  
+guardar = save, put  
+agradecer = thank  
+pasar = pass, happen  
+¿Hacia dónede vamos? = Where are we going towards?  
+la mejor manera de ...  
+fumar un cigarrillo  
+pedir prestado = borrow  
+  
+### 98  
++   
+  dímelo = say it to me  
+  levántate = get up  
+  bébela = drink it  
+  notice an accent mark to the letter that was originally stressed.  
+  
+Tú me dices la verdad. Dime la verdad, por favor.  
+Juan, sientate, por favor.  
+Allíviene tu novia. Entonces te dejo en buena compañía. ¡Chao!  
+  
++ compare a/de  
+  hacer a mi manera  
+  hacer de esta manera  
+  'de' is followed by demonstrative adjective(este, esta, ese, esa, aquel, aquella) or a   definie article(la) or a indefinite article(una).   
+  'a' followed only by a possessive adjective(mi, tu, nuestra...) or referred to someone   else's way: hacer a la manera de Maria.  
+  
++ yo mí me, tú ti te  
+  a/con/de/en/para/por mí/ti  
+  me ayudó  
+  para ti lo que ves de mí es la realidad.  
+  
++ lo que = (make it a noun.)  
+  Eso es lo que quiero decir.  
+  
++ cuándo 用于疑问句, cuando 用于从句  
+  ¿Cuándo vas a terminar tus deberes?  
+  Cuando hace calor, nos gusta desayunar en el jardín.  
+  Nos vamos a casar, pero el cuándo y el dónde aún no lo sé.  
+    
+### 99  
+equivocarse = make a mistake  
+solo = alone, single, only, just  
+por supuesto que sí = of course I do  
+en compañía de = with company of ...  
+horror = horror, a lot(hace un horror de frío)  
+aburrirse = get tired of, get bored  
+aurrirse un horror =  can't stand it  
+deje de = stop  
+alimentarse = feed, eat  
+hacerse daño = hurt oneself  
+conseguir = get, achieve  
+apenas = barely, hardly, only  
+ponerse enfermo = get sick  
+es que = it's just that  
+aquí eatar ... = here is/are ...'  
+pensamiento = thought  
+noble  
+arriba = above, up, upstairs  
+abajo = below, down, downstairs  
+  
+### 100  
+cielo = sky  
+la nube = cloud  
+nublado = cloudy  
+niebla = fog  
+tormenta = storm  
+impermeable = raincoat (usually use el or not use, and translate to someone´s xxx)  
+por = because of  
+los pantalones cortos = shorts  
+ruidoso = noisy  
+rueda = wheel  
+inusual = unusual  
+quitarse = take off (me quito)  
+cubrir = cover  
+quizás = perhaps  
+aire = air (no el/la usually)  
+especialmente = especially  
+grado = degree  
+¿Cuál es la temperatura?  
+Hoy la temperatura es de 38 grados.  
+las bajas temperaturas = low temperature  
+saltar = jump  
+césped = lawn, grass  
+patada = kick  
+se dar una patada fuerte (me dio...)  
+  
+### 101  
+caerse = fall down  
+caer bien/mal = like/dislike  
+me cae bien/mal  
+amarse = love each other  
+besarse = kiss each other  
+abrazarse = hug each other  
+vivo = alive, bright  
+gabinete = cabinet, office  
+tal como = such as, just as  
+de = of/from/in(indicate time)/with  
+disculpar = forgive, excuse  
+disculpa, disculpe(usted form) = excuse me  
+instrumento musical = musical instrument  
+Y, dime una cosa  
+rico = rich, delicious  
+rebanada = slice  
+hace + 时间 = 已经过多长时间  
+  
++ desde = since  
+  desde hace un mes = since one month ago  
+  desde diciembre = since Deceber  
+  
+tener [future]: tendré, tendrás, tendrá, tendremos, tendrán  
++ poner, pondré  
+  salir, saldré  
+  venir, vendré  
+  hacer, haré  
+  decir, diré  
+  saber, sabré  
+  poder, podré  
+  
+### 102  
+pertenecer a ... = belong to  
+lo que me pertenece  
+escenario = stage  
+el uno al otro = one another, each other  
+más tarde = later  
+reflejo = reflex, reflection  
+en verdad = really  
+mi reflejo no mostró quién soy yo en verdad (宾语从句)  
+parlante = speaker   
+Y si mejor ... = and if better to ... instead  
+en línea = online  
+para chuparse los dedos = delicious(suck one´s fingers)  
+la ciudad  
+pasado de moda = old-fashioned  
+trasero = de atrás = rear, back  
+patio trasero = backyard  
+de todas maneras = anyway  
+habrá(habia future)  
+ignorar  
+ambicionar = aspire, want  
+hacer clic = click  
+  
+### 103    
+gracias a Dios = thank goodness  
+qué te parece si ... = what do you think if  
+quedarse con = keep ...  
+me llevo los dos = I will take both  
+  
+[reference](https://blog.duolingo.com/just-do-it-how-to-make-commands-in-spanish/)  
++ **negative** commands (don't) 否定命令  
+  Get tú format: yo format, drop 'o', attach opposite ending, add -s  
+  Get usted format: same as above, but no -s  
+  Get ustedes format: same as above, but no -s, add -n  
+  normal: hables/comas/vivas/duermas/practiques  
+  others: seas(ir)/vayas(ir)/veas(ver)  
+  ustedes: hacer -> hagan, ir -> vayan    
+  
++ **affirmative** commands 命令    
+  (tú)去s = use él present format  
+  (usted/ustedes)换元音 = 和否定命令一样  
+  te/se/lo等词直接加在命令动词的后面。¡límpialo!        
+  -ar: -an -> -en, trabajen    
+  -er/-ir: -en -> -an, coman    
+  me lo llevo = I'll take it.    
+  
+  verbs that end in -go in the present tense yo form:   
+  haz(hacer, hago)/di(decir, digo)/pon(poner, pongo)/sal(salir, salgo)/ten(tener, tengo),   ven(venir, vengo)  
+  others:  
+  sé(ser), ve(ir), ve(ver)  
+  
+### 104  
+el lavaplatos = dishwasher(use el)  
+harán(hacer future) = build (a room)  
+pantalla = screen  
+redondo = round  
+cuadrado = square  
+rectangular, triángulo  
+un juego de = a set of   
+cuchara = spoon  
+tenedor = fork  
+cuchillo = knife  
+el frente de = the front of  
+eliminiar = eliminate  
+quédate = stay  
+avisar = warn, let know  
+descuento = discount  
+ser seguro = is safe  
+estar seguro = be sure  
+despacio = slowly  
+disfrutar de sth. = enjoy  
+picar = sting, eat  
+momento = moment, time  
+  
+### 105  
+respirar = breathe  
+lana = wool  
+(estar) a la venta = for sale  
+costo = cost  
+salchicha = sausage  
+un trozo = piece  
+la mitad = half  
+propina = tip, gratuity (money)  
+oferta = offer  
+picante = spicy  
+mezclar = mix  
+sin embargo = however  
+la PC = la computadora personal  
+¿Se puede ...? = Can one ...?  
+devolver = return, give back  
+talla = size  
+gaviota = seagull  
+volar = fly  
+corona = crown  
+peso = weight  
+  
+### 106    
+estación = station, season  
+temporada = season, period of time    
+primavera, verano, otoño, invierno  
+  
+libro de texto = textbook  
+al cabo de = after, at the end of ...  
+frecuente = frequent  
+instante = moment  
+belleza = beauty  
+paraíso = paradise  
+decidirse = make up one's mind  
+triunfar = succeed  
+pretexto = excuse  
+fracasado = failure  
+bendición = blessing  
+ciego = blind, blind man  
+demasiado = too  
+escenario = stage  
+medida = measurement  
+  
+### 107  
+valer = worth, cost  
+consolar = console  
+costura = sewing  
+causar = cause  
+común = common  
+libre = free  
+modelo = model (阴阳同形)  
+tumbar = knock down  
+tumbarse = lie down  
+hoja = leaf, sheet  
+la hoja de papel = the sheet of paper  
+organizar = organize (organicé)  
+sino = but  
+exactamente = exactly  
+diseñar = design  
+construir = build  
+es más = futhermore  
+trabajar de ingeniero = work as as engineer  
+retrasarse = be delayed  
+luego = then, later  
+  
+### 108  
+querer[future]: querré, querrás, querrá, querremos, querrán  
+andar = walk [preterite]: anduve, anduviste, anduvo, anduvimos, anduvieron  
+  
+(A mí)No me gustaría pertenecer a este pueblo pero a él sí. ('a él' <-> 'a él')  
+qué tiene de malo (= qué cosa/parte mala tiene, malo can be any adjective)  
 
+¿Por dónde anduviste? = Where did you walk around?  
+felicitaciones por el negocio nuevo = congratulations on the new business  
+desde cuando = how long  
+  
+a/de example:  
+ir a avión = go by plane  
+salir a coer a muchos retaurente  
+acordarse de sb./sth.  
+Te sientes al del estómago  
+  
+baba = 口水  
+caérsele la baba por = 对...着迷，如痴如醉  
+  
++ 西语中阴性名词如果以 a/ha 音开头，则在其单数形式中使用 el 形式。  
+  ala = wing, (el ala, un ala, las alas)  
+
+
+(230223)
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
