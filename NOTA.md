@@ -458,7 +458,7 @@ ajedrez = chess, jugar al ajedrez
   generalmente  
   de vez en cuando = sometimes  
     
-+ comer carne, 没有el  
++ comer carne, 没有la  
   
 ### 21  
 + 非正式的祈使句去掉tú form的-s，但以下为特殊形式  
@@ -695,7 +695,7 @@ cuaderno = notebook
 prueba = test 试验，考试  
 balonmano = handball  
 corredor, corredores = runner  
-carrera = race 比赛, career  
+carrera = race 比赛, career, degree  
   
 ### 32  
 Había una vez = once upon a time, there was ...  
@@ -704,7 +704,6 @@ Había una vez = once upon a time, there was ...
   príncipe = prince  
   princesa = princess  
   
-dulce = sweet, candy  
 refresco = soda 冷饮  
 los dibujos animados = cartoon  
 patios de juego = playground  
@@ -727,7 +726,7 @@ hasta = until
   
 ### 33  
 isla = island  
-Bienvenidos a ... = Welcome to ...  
+Bienvenidos a ... = Welcome to ... (bienvenida)  
 la catedral = cathedral  
 el/la turista = tourist  
 planear = plan, v.  
@@ -822,7 +821,8 @@ corazón, corazones = heart
 desierto = desert  
 la miel = honey  
 collar = necklace  
-propio = own  
+propio = own, typical, appropriate  
+la fruta propia del tiempo  
 vista de = view of  
 pato = duck  
 puente = bridge  
@@ -831,13 +831,13 @@ magia = magic
   
 ### 38  
 preterite 一般过去时  
-| 过去式 | saber | poder = can | poner = put | dormir |  
-| -- | -- | -- | -- | -- |  
-| yo | supe | pude | puse | dormí |  
-| tú | supiste | pudiste | pusiste | dormiste |  
-| él | supo | pudo | puso | durmió |  
-| nosotros  | supimos | pudimos | pusimos | dormimos |  
-| ellos | supieron | pudieron | pusieron | durmieron |  
+| 过去式 | saber | poder = can | poner = put | pedir/sentir/preferir | dormir |  
+| -- | -- | -- | -- | -- | -- |  
+| yo | supe | pude | puse | pedí | dormí |  
+| tú | supiste | pudiste | pusiste | pediste | dormiste |  
+| él | supo | pudo | puso | pidió | durmió |  
+| nosotros  | supimos | pudimos | pusimos | pedimos | dormimos |  
+| ellos | supieron | pudieron | pusieron | pidieron | durmieron |  
   
 más = more, anymore  
 vez, veces = time  
@@ -845,7 +845,7 @@ ocurrir = happen
 siglo = century  
 conocido = famous, familiar  
 charla = chat  
-preparar = prepare  
+preparar = prepare, make  
 nacimiento = birth  
 colina = hill  
 principio = beginning, principle  
@@ -902,7 +902,8 @@ explicar = explain, teach
 nivel = level  
   
 ### 42  
-a lo largo del ... = along  
+a lo largo de ... = throughout, along  
+largo = long, length  
 tantos = so many  
 rompecabezas = jigsaw puzzle, 单复同形  
 maravilloso = wonderful  
@@ -1104,7 +1105,7 @@ impresora = printer, 打印机
 currículum = resume  
 borrar = delete  
 funcionar = work (mechanical devices and   systems)  
-conectar = connect  
+conectar = connect, plug in    
 error, errores  
 cortar = cut, v.  
 corte = cut, n.  
@@ -1119,6 +1120,7 @@ condición = condition
   
 ### 56    
 suponer = suppose  
+suponer que ... = suppose that ...  
 supongo = I guess  
 crecer = grow  
 te caen bien = you don't like  
@@ -1388,7 +1390,6 @@ Este botella es de un litro. un litro de leche, de
 pinchado = flat
 neumático = tire
 a un lado de = at the side of
-a lo largo de = along
 acampar = camp
 hocky
 dibujo = drawing
@@ -1489,7 +1490,7 @@ dejar = leave, let
   + g->gu (g-a or g-o)  
   amigo -> amiguito  
   + others, 'illo', 'zuelo', or 'ico'  
-  bolso -> bolsillo  
+  bolso = bag -> bolsillo = pocket  
   mujer -> mujerzuela (negative)  
   perro -> perrito vs perrico  
   
@@ -1520,6 +1521,7 @@ elegir = choose, 用作具有特定目的的人或事物的选择时常用，如
 ### 84  
 miembro = member, 阴阳同形  
 igual = equal, the same  
+Nosotros trabajamos igual que ellos.  
 bistec = steak  
 manta = blanket  
 este/esta/esto(中性，用于不确定时)  
@@ -1655,6 +1657,7 @@ estarán ellas allí?
 A caballo regalado no le mira los dientes. 对别人送的礼物，不要看价值，而要看重心意。  
 dormir a pierna suelta/tendida = 高枕无忧，睡得很香  
 buscar tres pies al gato = 自找麻烦，冒无谓的风险  
+señalar = show, point  
 señalar a uno con el dedo 指责，议论  
 innumerable = innumerable 无数的  
 pecado = sin  
@@ -1696,7 +1699,7 @@ atrapar = catch
 sospecha = suspicion  
 la mente = mind  
 venir a la mente = come to mind  
-subir, subirse = climb, go up, raise, get on  
+subir, subirse = upload, climb, go up, raise, get on  
 subírsele a la cabeza = 使头晕，微醺  
 tener prisa = in a hurry  
 es por eso = that's way  
@@ -1934,7 +1937,7 @@ me llevo los dos = I will take both
   Get ustedes format: same as above, but no -s, add -n  
   normal: hables/comas/vivas/duermas/practiques  
   others: seas(ir)/vayas(ir)/veas(ver)  
-  ustedes: hacer -> hagan, ir -> vayan    
+  ustedes: hacer -> hagan, ir -> vayan, venir -> vengan, tener -> tengan, salir -> salgan, traer -> traigan, poner -> pongan, oír -> oigan      
   
 + **affirmative** commands 命令    
   (tú)去s = use él present format  
@@ -2034,6 +2037,7 @@ diseñar = design
 construir = build  
 es más = futhermore  
 trabajar de ingeniero = work as as engineer  
+retrasar = postpone  
 retrasarse = be delayed  
 luego = then, later  
   
@@ -2048,11 +2052,12 @@ qué tiene de malo (= qué cosa/parte mala tiene, malo can be any adjective)
 felicitaciones por el negocio nuevo = congratulations on the new business  
 desde cuando = how long  
   
-a/de example:  
+a/de/por example:  
 ir a avión = go by plane  
 salir a coer a muchos retaurente  
 acordarse de sb./sth.  
 Te sientes al del estómago  
+por dónde auduvieron ayer  
   
 baba = 口水  
 caérsele la baba por = 对...着迷，如痴如醉  
@@ -2060,7 +2065,288 @@ caérsele la baba por = 对...着迷，如痴如醉
 + 西语中阴性名词如果以 a/ha 音开头，则在其单数形式中使用 el 形式。  
   ala = wing, (el ala, un ala, las alas)  
 
+### 109
+mierda = shit
+o sea = in other words
+describir = describe
+cadena = chain
+en la red = on the internet
+estacionar el carro = park the car
+doblar = fold, turn
+aguacate = avocado, 牛油果
+pedazo = piece
+???______________ vs trozo
+clásico = classical
+vete = go away
+divorciar = divorce
+batidora = mixer
 
-(230223)
+### 110
+así es = that is right
+me encanta = enjoy, amar = love
+exprimir = squeeze
+complicado = complex
+apretado = tight
+quebrar = break
+temer = fear
+(temer a alguien a ...)  Le temían a la muerte.
+lo único = the only thing, lo 中性冠词
+errar = miss(fail), wander
+acertar = get right, guess correctly
+acierto = correct answer
+acceso = access
+injusticia = injustice
+en la parte de abajo de ...
+英语从句中的who在西语中可以用que表示
+
+dáselo = gie it to him
+déselo = give it to them
+digamelo
+(usted) salga, venga
+
+molestar = bother, upset
+boseque = forest
+muchacho, muchacha = young boy/girl
+
+(-uir)construir/incluir/destruir
+construyo, construyes, construye, construimos, construyen
+
+parecer = seem
+ser + 职业， 职业前不需要加冠词
+felicidades por ...
+otro pedazo de pollo (__? no el)
+empujar = push
+halar/jalar = pull
+contra = against
+cómo no = of course
+circulo = circle
+
+se hace caso = take notice of, listen to 
+
+tejado = roof
+tirar = throw
+vidrio = glass
+piedra = stone
+El que tiene tejado de vidrio, no tire piedras a los de su vecino.
+el que ..., los de ... __?
+
+como si = as if
+entero = whole
+Como si estando para siempre lejos, estuviéramos la vida entera juntos.
+
+grabar = record
+obvio = obvious, obviously / of course
+permitir = allow
+paso = step
+silenciosamente = silently
+
++ y and e in spanish
+  both means 'and'
+  if next word starts with an 'ee' sound, use e instead. 
+  'hi-' also,  because h no sound. sometimes 'y', like 'Ysabel'.
+  e.g. divertido e interesante, interesante y divertido
++ o or u in spanish
+  similiar to above.
+  e.g. otros edificios o casas, casas u otros edificios
+
+mantener = hold, maintain
+llevar puesto = wear, have on
+llevar 根据主语变化，puesto/a/os/as 根据穿的东西变化。
+matar = kill
+se matar, matar la radio, matar el tiempo, mater el hambre
+
+por algo = for a reason
+lo que = what
+ánimo = mood, spirits, energy
+embarazar = get pregnant, embarrass
+constante = constant
+desgracia = misfortune, tragedy
+por desgracia = unfortunately
+abundancia = abundance
+creciente = growing, crescent
+pesadilla = nightmare
+uso individual = single use
+
++ different meaning depends on using with 'ser' or 'estar'
+  ser seguro = safe
+  estar seguro = sure
+
+  ser listo = smart
+  estar listo = ready
+
+  ser verde = green
+  estar verder = unripe
+
+  ser rico = rich
+  estar rico = yummy
+
+gramo = gram
+centimetro = centimeter
+cien gramos de ...
+exacto = exactly
+recto = straight
+unicornio = unicorn
+oración = prayer, sentence
+glacial = glacial, icy
+calma = calm
+experto = expert
+marinero = sailor
+Ningún mar en calma hizo experto a un umarinero.   ___?a
+
+complacer = please(feel satisfaction in)
+dulzura = sweetness(culinary, tenderness)
+dulce = sweet, candy  
+encadenar = chain, link
+alma = soul
+f. but use 'el alma'
+
+al v.(原型 infinitive)... =  when
+se reír = laugh
+correr = run
+ya mismo = at once, right now
+los zapatos deportivos = the sneakers
+maratón = marathon
+desde luego = of course, certainly
+a través de = through, across
+recuerdo = memory
+simplemente = simply, just
+
++ 身体部分前不一定都要用un/el/los之类的，也可以用mi/su之类的，要分情况。
+  me dule el brazo. 用el是因为前面有me了，再用mi就重复了。但当前面没有指代的话可用，或者a mi 这种强调的。
+
+licencia para conducir = driver's license
+
+más a. que n.
+v. más de n.
+
+apurarse = finish
+confianza = confidence, trust
+cantidad = f. amount, number
+palabra = word
+cambiar estos dólares por pesos
+bajarse de = get off from
+llave = key
+qué alivio = what a relief
+barrio = neighborhood
+pricipal = main, principal
+pensar = think, plan
+las afueras = outskirts
+parque de atracciones = amusement park
+ir a pie = go on foot
+ducha = f. shower
+falta = lack, absense
+hacer falta = need, necessary
+Tomar agua caliente = drink hot water
+No comer comida picante = no eating spicy food
+tres veces al dia = 3 times a day
+multitud de = a lot of
+estar en contacto con = be in contact with
+
++ 时间
+  年/月 en julio, en 2023
+  年月 en octubre de 1999
+  年月日 el 24 de enero de 1974
+  
+terraza = roof, terrace, 阳台
+pasar por = go past, pass through
+monumento = monument
+circo = circus
+pasado mañana = the day after tomorrow
+anteayer = the day before yesterday
+frutería = fruit shop
+hacer cola = get in line
+quiosco = nesstand, kiosk
+distracción = entertainment, distraction
+por distracción
+la suavidad = softness
+puesta de sol = sunset
+suelo = ground, soil
+polluelo = m./f. chick
+alimentar = feed
+por ciento = percent
+la mayoría = most, majority
+solamente = only, just
+bar, bares
+lindo = pretty, nice
+habitante = inhabitant
+plaza = square, 广场
+ambulancia = ambulance
+tanto = so much
+inimaginable =  unimaginable
+esforzarse = make an effort
+optimismo = optimism
+
+escritor, escritora = writer, author
+charlar sobre = chat about
+novela = novel
+poema = poem
+romántico = romantic
+autobiografía = autobiography, 自传
+breve = brief
+especial = special
+almuerzo = lunch
+avergonzarse, avergonzado = embarrass, shame
+faltar = miss
+capítulo = chapter
+verso = verse, poem
+párrafo = paragraph
+usado = used
+creativo = creative
+protagonista = m./f. main character
+de amor = of love
+firmar = sign
+traducir = translate
+hispano = hispanic, spaniard, 西班牙裔
+ciencia ficción = science fiction
+a mí tampoco = neither did I
+tanto ... como ... = as much as
+pino = pine
+mástil = pole, 桅杆
+llevar a alguien a un lugar
+media naranja = soulmate
+abogado = lawyer
+ser 职业，不需要 + el/la
+es experto en ... ，不需要 + el/la
+gusto = taste, flavor, liking
+poseer = have, own, possess
+tierra = land
+el planeta = planet
+cualquiera = any
+caulquiera que sea = whatever
+risa = n. laugh
+instalar = install
+tableta = tablet
+chatear = chat
+tecnología = technology
+crear = create
+olvidar = forget
+arroba = @, at sign
+la página web = web page
+videojuego = video game
+comunicarse = communicate
+buzón de voz = voicemail
+buzón = mailbox
+voz = voice
+la televisión por cable = the cable television
+informática = computing, computer science
+publicidad = f. publicity, advertising
+blog
+foro = forum
+casarse = get married
+el tema = subject, topic, theme
+solución = solution
+banda = band
+coreografía = choreography, 编舞
+mover = move
+ritmo = rhythm
+admitir = admit, accept
+distraer = distract, entertain
+
+
+
+
+
+
+(230404)
 
 [link](https://github.com/Amethyst0710/spanish/blob/main/NOTA.md "should add two blank after each line")
